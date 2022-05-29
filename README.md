@@ -39,7 +39,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 ###### Notes/Learnings
 
 <details>
-  <summary>Day 1: May 29, 2022<summary>
+  <summary>Day 1: May 29, 2022</summary>
 
   ###### Things I accomplished today:
     - I started learning about linked lists
@@ -54,4 +54,4 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
     - Search operations are slow because nodes are accessed sequentially
     - Uses more memory than arrays because of the pointers
     - Nodes can be more easily manipulated than arrays
-<details>
+</details>
