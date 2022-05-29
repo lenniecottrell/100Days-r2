@@ -8,35 +8,53 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Build sample CRUD apps
 
 ### Week 1 - May 29-June 4, 2022
-##### Day 7: June 4, 2022
-###### Things I accomplished today:
-###### Things I want to focus on tomorrow:
-###### Notes/Learnings
+<details>
+  <summary>Day 7: June 4, 2022</summary>
 
-##### Day 6: June 3, 2022
-###### Things I accomplished today:
-###### Things I want to focus on tomorrow:
-###### Notes/Learnings
+    ###### Things I accomplished today:
+    ###### Things I want to focus on tomorrow:
+    ###### Notes/Learnings
+</details>
 
-##### Day 5: June 2, 2022
-###### Things I accomplished today:
-###### Things I want to focus on tomorrow:
-###### Notes/Learnings
+<details>
+  <summary>Day 6: June 3, 2022</summary>
 
-##### Day 4: June 1, 2022
-###### Things I accomplished today:
-###### Things I want to focus on tomorrow:
-###### Notes/Learnings
+    ###### Things I accomplished today:
+    ###### Things I want to focus on tomorrow:
+    ###### Notes/Learnings
+</details>
 
-##### Day 3: May 31, 2022
-###### Things I accomplished today:
-###### Things I want to focus on tomorrow:
-###### Notes/Learnings
+<details>
+  <summary>Day 5: June 2, 2022</summary>
 
-##### Day 2: May 30, 2022
-###### Things I accomplished today:
-###### Things I want to focus on tomorrow:
-###### Notes/Learnings
+    ###### Things I accomplished today:
+    ###### Things I want to focus on tomorrow:
+    ###### Notes/Learnings
+</details>
+
+<details>
+  <summary>Day 4: June 1, 2022</summary>
+
+    ###### Things I accomplished today:
+    ###### Things I want to focus on tomorrow:
+    ###### Notes/Learnings
+</details>
+
+<details>
+  <summary>Day 3: May 31, 2022</summary>
+
+    ###### Things I accomplished today:
+    ###### Things I want to focus on tomorrow:
+    ###### Notes/Learnings
+</details>
+
+<details>
+  <summary>Day 2: May 30, 2022</summary>
+  
+    ###### Things I accomplished today:
+    ###### Things I want to focus on tomorrow:
+    ###### Notes/Learnings
+</details>
 
 <details>
   <summary>Day 1: May 29, 2022</summary>
