@@ -39,18 +39,19 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 ###### Notes/Learnings
 
 <details>
-<summary>Day 1: May 29, 2022<summary>
-###### Things I accomplished today:
-  - I started learning about linked lists
-  - I wrote some code to define a linked list in javascript
-###### Things I want to focus on tomorrow:
-  - Watch the next lectures on linked lists from SDSU
-  - Start looking at leetcode?
-###### Notes/Learnings:
-  - Each node in a lists contains a pointer and data
-  - List are always complexity Theta(n), which is 1, because each item always needs to be counted
-  - The nodes in a linked list are stored in separate objects that contain pointers to the next objects in the list. This is different from an array, where elements are stored in contiguous memory locations (each location being an increment of 4 bytes)
-  - Search operations are slow because nodes are accessed sequentially
-  - Uses more memory than arrays because of the pointers
-  - Nodes can be more easily manipulated than arrays
+  <summary>Day 1: May 29, 2022<summary>
+
+  ###### Things I accomplished today:
+    - I started learning about linked lists
+    - I wrote some code to define a linked list in javascript
+  ###### Things I want to focus on tomorrow:
+    - Watch the next lectures on linked lists from SDSU
+    - Start looking at leetcode?
+  ###### Notes/Learnings:
+    - Each node in a lists contains a pointer and data
+    - List are always complexity Theta(n), which is 1, because each item always needs to be counted
+    - The nodes in a linked list are stored in separate objects that contain pointers to the next objects in the list. This is different from an array, where elements are stored in contiguous memory locations (each location being an increment of 4 bytes)
+    - Search operations are slow because nodes are accessed sequentially
+    - Uses more memory than arrays because of the pointers
+    - Nodes can be more easily manipulated than arrays
 <details>
