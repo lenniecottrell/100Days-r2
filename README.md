@@ -46,6 +46,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   ###### Things I accomplished today:
     - watched some videos about adding to the beginning or adding to the ending of an array
     - I started reviewing the Google Books API docs
+    - I started reading Cracking the Coding Interview to get an idea of what's ahead.
   ###### Things I want to focus on tomorrow:
     - start sketching out my plans for a personal library app - what are all the parts and pieces, what does the UI look like?
   ###### Notes/Learnings
