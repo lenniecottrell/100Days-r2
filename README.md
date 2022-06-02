@@ -36,8 +36,12 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 4: June 1, 2022</summary>
 
   ###### Things I accomplished today:
+    - I started planning the UI for the book app and made a list of the tools I plan to use
   ###### Things I want to focus on tomorrow:
+    - Another couple of linked list vids
+    - Review the linked list implementation in Javascript
   ###### Notes/Learnings
+    - Planning before coding is good and helpful!
 </details>
 
 <details>
@@ -50,7 +54,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   ###### Things I want to focus on tomorrow:
     - start sketching out my plans for a personal library app - what are all the parts and pieces, what does the UI look like?
   ###### Notes/Learnings
-    - I was reminded today as I dove inthe deep end of the google books API how much better off I'll be if I spend some time planning before jumping into the code. A solid plan will give me the mental framework and conceptual skeleton I need to be more efficient when I actually start diving in
+    - I was reminded today as I dove in the deep end of the google books API how much better off I'll be if I spend some time planning before jumping into the code. A solid plan will give me the mental framework and conceptual skeleton I need to be more efficient when I actually start diving in
 </details>
 
 <details>
