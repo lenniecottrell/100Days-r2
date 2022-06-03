@@ -28,8 +28,15 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 5: June 2, 2022</summary>
 
   ###### Things I accomplished today:
+    - Researched UI libraries a bit more and devcided to change to ChakraUI, started learning about it
+    - Started building my component skeleton
+    - Watched 2 more Linked List videos about removeFirst() and removeLast()
+    - I started working on the first problem from Cracking the Coding Interview. It's a type of question I've seen before, I just need to remember how to do it.
   ###### Things I want to focus on tomorrow:
+    - I want to start building the UI at least, if not start to import some data
+    - finish this algo problem
   ###### Notes/Learnings
+    - I actually think data structures are super interesting. The videos I'm watching explain everything very clearly and make it seem way easier than I'm sure it is in reality, so I'm excited to start actually applying this stuff to problems.
 </details>
 
 <details>
