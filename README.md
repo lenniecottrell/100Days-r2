@@ -22,8 +22,13 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   ###### Things I accomplished today:
     - I solved the first problem in Cracking the Coding Interview with a brute force method and O(n^2) time. I looked up other more efficient solutions - time to learn about hash tables!
     - I learned how to implement a queue in Javascript
+    - I got to spend some hours building my book app UI with ChakraUI and the google books API. It was good practice to fetch API data and display it with useEffect(). I have a kind of clunky solution at the moment, I'll go back and refactor after I clean up the UI a little bit
   ###### Things I want to focus on tomorrow:
+    - clean the UI so the cards are all the same size
+    - consider a different way to display the book data
+    - watch another linked list video
   ###### Notes/Learnings
+    - I learned a lot about Chakra UI today, and hot damn using a component library really speeds things up. I don't regret all the time I've spent struggling with CSS, but I'm grateful for a component library that can speed up UI development. 
 </details>
 
 <details>
