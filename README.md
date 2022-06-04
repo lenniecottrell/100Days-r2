@@ -20,6 +20,8 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 6: June 3, 2022</summary>
 
   ###### Things I accomplished today:
+    - I solved the first problem in Cracking the Coding Interview with a brute force method and O(n^2) time. I looked up other more efficient solutions - time to learn about hash tables!
+    - I learned how to implement a queue in Javascript
   ###### Things I want to focus on tomorrow:
   ###### Notes/Learnings
 </details>
