@@ -21,6 +21,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
     - add a hover animation to the cards
     - add routes to the other pages and start building them
   ###### Notes/Learnings
+    - other future to-dos include publishing to github pages, adding authentication
 
 </details>
 
