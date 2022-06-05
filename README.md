@@ -12,8 +12,15 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 7: June 4, 2022</summary>
 
   ###### Things I accomplished today:
+    - learned about remove(), find(), and peek() methods in linked lists
   ###### Things I want to focus on tomorrow:
+    - try to write out a linked list in javascript from memory and my notes without referencing the one I already wrote
+    - set breakpoints on the grid
+    - standardize the title/author text position
+    - add a hover animation to the cards
+    - add routes to the other pages and start building them
   ###### Notes/Learnings
+
 </details>
 
 <details>
