@@ -7,12 +7,87 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Build small React projects with different free APIs
 >  - Build sample CRUD apps
 
+### Week 2 - June 5-June 11, 2022
+<details>
+  <summary>Day 14: June 11, 2022</summary>
+
+  ###### Things I accomplished today:
+  ###### Things I want to focus on tomorrow:
+  ###### Notes/Learnings
+
+
+</details>
+<details>
+  <summary>Day 13: June 10, 2022</summary>
+
+  ###### Things I accomplished today:
+  ###### Things I want to focus on tomorrow:
+  ###### Notes/Learnings
+
+
+</details>
+<details>
+  <summary>Day 12: June 9, 2022</summary>
+
+  ###### Things I accomplished today:
+  ###### Things I want to focus on tomorrow:
+  ###### Notes/Learnings
+
+
+</details>
+<details>
+  <summary>Day 11: June 8, 2022</summary>
+
+  ###### Things I accomplished today:
+  ###### Things I want to focus on tomorrow:
+  ###### Notes/Learnings
+
+
+</details>
+<details>
+  <summary>Day 10: June 7, 2022</summary>
+
+  ###### Things I accomplished today:
+  ###### Things I want to focus on tomorrow:
+  ###### Notes/Learnings
+
+
+</details>
+<details>
+  <summary>Day 9: June 6, 2022</summary>
+
+  ###### Things I accomplished today:
+  ###### Things I want to focus on tomorrow:
+  ###### Notes/Learnings
+
+
+</details>
+<details>
+  <summary>Day 8: June 5, 2022</summary>
+
+  ###### Things I accomplished today:
+    - standardized the card size and position of the images/text on the cards
+    - used a SimpleGrid instead of normal Grid in ChakraUI to make easy breakpoints for the grid
+    - added a small hover animation to the cards and a fade in for when they load
+    - I started making my routes, and I realized I have more planning to do to figure out what the other pages will look like
+  ###### Things I want to focus on tomorrow:
+    - Start with reviewing what I know about linked lists
+    - Introduce the next problem in Cracking the Coding Interview
+    - Work on the plan for the additional pages in my book app
+  ###### Notes/Learnings
+    - Working in support has made using documentation way easier. Since I reference our own docs and KB at work, I'm used to the language and how it applies. Also, since I just know more about code now, implementing things with the docs makes more sense.
+
+</details>
+
+
+
 ### Week 1 - May 29-June 4, 2022
 <details>
   <summary>Day 7: June 4, 2022</summary>
 
   ###### Things I accomplished today:
     - learned about remove(), find(), and peek() methods in linked lists
+    - populated my book cards with titles, authors, and images
   ###### Things I want to focus on tomorrow:
     - try to write out a linked list in javascript from memory and my notes without referencing the one I already wrote
     - make a working branch on the book app so I don't accidentally ruin the good work I've done :)
@@ -22,6 +97,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
     - add routes to the other pages and start building them
   ###### Notes/Learnings
     - other future to-dos include publishing to github pages, adding authentication
+    - I had to deal with what happens when there are no image links, so that was a interesting edge case to have to work around. It wasn't too tricky, but I didn't expect it
 
 </details>
 
