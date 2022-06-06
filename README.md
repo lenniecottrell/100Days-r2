@@ -66,18 +66,16 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 8: June 5, 2022</summary>
 
   ###### Things I accomplished today:
-    * standardized the card size and position of the images/text on the cards
-    * used a SimpleGrid instead of normal Grid in ChakraUI to make easy breakpoints for the grid
-    * added a small hover animation to the cards and a fade in for when they load
-    * I started making my routes, and I realized I have more planning to do to figure out what the other pages will look like
+  * standardized the card size and position of the images/text on the cards
+  * used a SimpleGrid instead of normal Grid in ChakraUI to make easy breakpoints for the grid
+  * added a small hover animation to the cards and a fade in for when they load
+  * I started making my routes, and I realized I have more planning to do to figure out what the other pages will look like
   ###### Things I want to focus on tomorrow:
-  ---
     - Start with reviewing what I know about linked lists
     - Introduce the next problem in Cracking the Coding Interview
     - Work on the plan for the additional pages in my book app
-  ---
   ###### Notes/Learnings
-    >  Working in support has made using documentation way easier. Since I reference our own docs and KB at work, I'm used to the language and how it applies Also, since I just know more about code now, implementing things with the docs makes more sense.
+    - Working in support has made using documentation way easier. Since I reference our own docs and KB at work, I'm used to the language and how it applies Also, since I just know more about code now, implementing things with the docs makes more sense.
 
 </details>
 
