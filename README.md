@@ -77,9 +77,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
     - Work on the plan for the additional pages in my book app
   ---
   ###### Notes/Learnings
-    > Working in support has made using documentation way easier. 
-    > Since I reference our own docs and KB at work, I'm used to the language and how it applies
-    > Also, since I just know more about code now, implementing things with the docs makes more sense.
+    >  Working in support has made using documentation way easier. Since I reference our own docs and KB at work, I'm used to the language and how it applies Also, since I just know more about code now, implementing things with the docs makes more sense.
 
 </details>
 
