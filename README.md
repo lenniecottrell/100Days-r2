@@ -11,70 +11,75 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 <details>
   <summary>Day 14: June 11, 2022</summary>
 
-  ###### Things I accomplished today:
-  ###### Things I want to focus on tomorrow:
-  ###### Notes/Learnings
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
 
 
 </details>
 <details>
   <summary>Day 13: June 10, 2022</summary>
 
-  ###### Things I accomplished today:
-  ###### Things I want to focus on tomorrow:
-  ###### Notes/Learnings
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
 
 
 </details>
 <details>
   <summary>Day 12: June 9, 2022</summary>
 
-  ###### Things I accomplished today:
-  ###### Things I want to focus on tomorrow:
-  ###### Notes/Learnings
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
 
 
 </details>
 <details>
   <summary>Day 11: June 8, 2022</summary>
 
-  ###### Things I accomplished today:
-  ###### Things I want to focus on tomorrow:
-  ###### Notes/Learnings
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
 
 
 </details>
 <details>
   <summary>Day 10: June 7, 2022</summary>
 
-  ###### Things I accomplished today:
-  ###### Things I want to focus on tomorrow:
-  ###### Notes/Learnings
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
 
 
 </details>
 <details>
   <summary>Day 9: June 6, 2022</summary>
 
-  ###### Things I accomplished today:
-  ###### Things I want to focus on tomorrow:
-  ###### Notes/Learnings
-
+  #### Things I accomplished today:
+  - attempted to implement a linked list from memory
+  - reviewed some of the linked list videos as a refresher
+  #### Things I want to focus on tomorrow:
+  - don't lose steam on the book app - do some planning
+  #### Notes/Learnings
+  - false confidence when you're learning is super real. 
+  - The concept of a linked list isn't hard to understand, but remembering how to implement it in code is more difficult than I expected
+  - Practice more. Maybe look at some problems and solutions to get more context on how to use a linked list?
 
 </details>
 <details>
   <summary>Day 8: June 5, 2022</summary>
 
-  ##### Things I accomplished today:
+  #### Things I accomplished today:
   * standardized the card size and position of the images/text on the cards
   * used a SimpleGrid instead of normal Grid in ChakraUI to make easy breakpoints for the grid
   * added a small hover animation to the cards and a fade in for when they load
   * I started making my routes, and I realized I have more planning to do to figure out what the other pages will look like
-  ##### Things I want to focus on tomorrow:
+  #### Things I want to focus on tomorrow:
   - Start with reviewing what I know about linked lists
   - Introduce the next problem in Cracking the Coding Interview
   - Work on the plan for the additional pages in my book app
-  ##### Notes/Learnings
+  #### Notes/Learnings
   - Working in support has made using documentation way easier. Since I reference our own docs and KB at work, I'm used to the language and how it applies Also, since I just know more about code now, implementing things with the docs makes more sense.
 
 </details>
