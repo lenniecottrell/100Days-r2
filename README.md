@@ -48,8 +48,14 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 10: June 7, 2022</summary>
 
   #### Things I accomplished today:
+  - did some planning for the next pages of my book app
+  - Built out the about page
+  - Researched some components I want to use for the account page and book detail page
   #### Things I want to focus on tomorrow:
+  - Build the account page and book detail page
+  - Connect the routes to the new pages
   #### Notes/Learnings
+  - Design choices are hard! There are many different ways a design could go, and planning definitely helps but it's hard to know if you're picking a good UI/UX until you actually start using the thing I think.
 
 
 </details>
