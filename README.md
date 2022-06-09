@@ -39,8 +39,14 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 11: June 8, 2022</summary>
 
   #### Things I accomplished today:
+  - Today I made some design decions about UI/UX and started implementing them in my book app
+  - "My Library" will be its own page with tabs for different shelves
+  - Account login is a modal box for now
   #### Things I want to focus on tomorrow:
+  - finish building the "My Library" page
+  - study how to add authentication
   #### Notes/Learnings
+  - I can't stress enough how important and valuable it is to plan before starting to code. Let this be a lesson I drive deep into my brain.
 
 
 </details>
