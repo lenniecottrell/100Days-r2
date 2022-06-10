@@ -30,8 +30,16 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 12: June 9, 2022</summary>
 
   #### Things I accomplished today:
+  - I finished building the "My Library" page when its blank - I think I need to implement user authentication before I can populate shelves? Maybe not....
+  - Cleaned up some components
+  - Started studying how another dev implemented user auth on a simple to do app (he used Redux)
   #### Things I want to focus on tomorrow:
+  - I want to keep working on this, but I also want to keep picking away at linked lists. I'm gonna do some review and maybe look at a problem
+  - If I have more time I'll keep studying how to do user authentication
   #### Notes/Learnings
+  - I am feeling very confident with my CSS/Fundamental React skills. I obviously have a ton to learn still, but it's time to start challenging myself to get outside my comfort zone.
+  - Adding user auth will definitely be a challenge!
+  - Add redux to this app would also be a very useful challenge
 
 
 </details>
