@@ -12,8 +12,14 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 14: June 11, 2022</summary>
 
   #### Things I accomplished today:
+  - Finished leetcode 141, but had to look up the full solution
+  - Decided to switch my account login from a modal to a separate page
+  - Did more reading and gathered some more resources on user auth. Beginning to feel a bit like [yak shaving](https://xkcd.com/1739/) -> I need to create a form, okay I can do that with Chakra, but chakra recommends integrating with Formik, okay now I have to read about Formik, plus I have this walkthrough open that I should read to get an overview of the process, and does user auth require React's context API? I need to read about that too...
   #### Things I want to focus on tomorrow:
+  - Revisit the linked list videos to keep it fresh, maybe start a new problem
+  - Build out the account page
   #### Notes/Learnings
+  - There was a trick to finding a linked list cycle that I didn't know where a pointer that moves by two and a pointer that moves by one will eventually meet up if there is a cycle. Seems straightforward and I wonder what other kinds of problems there are where I can use that concept
 
 
 </details>
