@@ -21,8 +21,13 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 13: June 10, 2022</summary>
 
   #### Things I accomplished today:
+  - I looked at LeetCode #237 on linked lists. I reviewed a couple of solutions after thinking about it for a while and made sure I understood the solutions before moving on.
+  - Started working on LeetCode #141 also. I got close! my initial attempt passed some of the test cases but didn't pass submission. I'll take one more crack at it before looking up solutions.
   #### Things I want to focus on tomorrow:
+  - finish this problem
+  - keep reading about user auth
   #### Notes/Learnings
+  - I'm very proud of myself for beginning to tackle leetcode questions, and actually starting to feel like I understand the basics of DS&A
 
 
 </details>
