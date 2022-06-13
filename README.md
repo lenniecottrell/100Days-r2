@@ -7,6 +7,77 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Build small React projects with different free APIs
 >  - Build sample CRUD apps
 
+### Week 3 - June 12-June 18, 2022
+
+<details>
+  <summary>Day 21: June 18, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+<details>
+  <summary>Day 20: June 17, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+<details>
+  <summary>Day 19: June 16, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+<details>
+  <summary>Day 18: June 15, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+<details>
+  <summary>Day 17: June 14, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+<details>
+  <summary>Day 16: June 13, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+<details>
+  <summary>Day 15: June 12, 2022</summary>
+
+  #### Things I accomplished today:
+  - I built out a login page with Formik and Chakra. Doesn't do anything yet but the basic page is built
+  #### Things I want to focus on tomorrow:
+  - Review Linked List videos and code
+  - Look at a new Linked List Problem
+  - Start building a book detail page
+  #### Notes/Learnings
+
+</details>
+<details>
+
+
 ### Week 2 - June 5-June 11, 2022
 <details>
   <summary>Day 14: June 11, 2022</summary>
@@ -20,6 +91,8 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   - Build out the account page
   #### Notes/Learnings
   - There was a trick to finding a linked list cycle that I didn't know where a pointer that moves by two and a pointer that moves by one will eventually meet up if there is a cycle. Seems straightforward and I wonder what other kinds of problems there are where I can use that concept
+  - I looked a bit deeper into using google sign-in and I think it might be ambitious for now. I should focus on building out the rest of the app before adding user auth. 
+  - Refocus: make a book details page, make a way to populate "my library"
 
 
 </details>
