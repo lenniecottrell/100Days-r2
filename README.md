@@ -58,8 +58,12 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 16: June 13, 2022</summary>
 
   #### Things I accomplished today:
+  - Reviewed some linked list implementation and started a new problem
   #### Things I want to focus on tomorrow:
+  - work on that problem!
+  - If I have time start working on the book detail page
   #### Notes/Learnings
+  -I like learning
 
 </details>
 <details>
