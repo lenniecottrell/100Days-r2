@@ -49,8 +49,13 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 17: June 14, 2022</summary>
 
   #### Things I accomplished today:
+  - worked on leetcode #203
+  - I wrestled with it for a while before looking at solutions - I'll need to do that for a while as I'm learning, and with limited time I'll have to be patient. However! When I looked at some solutions I was really close 
   #### Things I want to focus on tomorrow:
+  - I want to work through this problem again to review
+  - I'd really like to not leave the book app for more than a day or two - maybe I can find a time in the middle of the day?
   #### Notes/Learnings
+  - Doing this with limited time is a littel frustrating. Things are going pretty well at work, but my progress with learning/building an app is extra slow since I limited time. I'm leaning in to development opportunities at work, but I'd still like to build out my portfolio and I'd still like to learn DS&A
 
 </details>
 <details>
