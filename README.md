@@ -40,8 +40,11 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 18: June 15, 2022</summary>
 
   #### Things I accomplished today:
+  - I worked through Leetcode 203 again focusing on understanding each step
   #### Things I want to focus on tomorrow:
+  - I'm going to keep working on LinkedList problems for now - I'll get to the book app this weekend
   #### Notes/Learnings
+  - It's tedious to work the same problems multiple times, but if the focus is on understanding, I think it's still a good use of my time. I want a deep knowledge of these concepts, and since I'm not in school full time I need to be wrestling with them as much as possible during my limited time I have to study and practice.
 
 </details>
 <details>
