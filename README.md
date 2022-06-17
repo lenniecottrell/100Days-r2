@@ -31,7 +31,10 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 19: June 16, 2022</summary>
 
   #### Things I accomplished today:
+  - I worked through Leetcode 203 with a one pointer and two pointers today to really make sure I knew what was going on, and created a little visual helper for myself with sticky notes.
+  - I designed and started building the skeleton for a book detail page in my book app
   #### Things I want to focus on tomorrow:
+  - Build out the book detail page
   #### Notes/Learnings
 
 </details>
