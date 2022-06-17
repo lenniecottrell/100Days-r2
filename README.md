@@ -17,7 +17,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   #### Notes/Learnings
 
 </details>
-<details>
+
 <details>
   <summary>Day 20: June 17, 2022</summary>
 
@@ -26,7 +26,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   #### Notes/Learnings
 
 </details>
-<details>
+
 <details>
   <summary>Day 19: June 16, 2022</summary>
 
@@ -36,9 +36,10 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   #### Things I want to focus on tomorrow:
   - Build out the book detail page
   #### Notes/Learnings
+  - My main app page is currently rendering twice on initial load - I gotta figure that out.
 
 </details>
-<details>
+
 <details>
   <summary>Day 18: June 15, 2022</summary>
 
@@ -50,7 +51,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   - It's tedious to work the same problems multiple times, but if the focus is on understanding, I think it's still a good use of my time. I want a deep knowledge of these concepts, and since I'm not in school full time I need to be wrestling with them as much as possible during my limited time I have to study and practice.
 
 </details>
-<details>
+
 <details>
   <summary>Day 17: June 14, 2022</summary>
 
@@ -64,7 +65,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   - Doing this with limited time is a littel frustrating. Things are going pretty well at work, but my progress with learning/building an app is extra slow since I limited time. I'm leaning in to development opportunities at work, but I'd still like to build out my portfolio and I'd still like to learn DS&A
 
 </details>
-<details>
+
 <details>
   <summary>Day 16: June 13, 2022</summary>
 
@@ -77,7 +78,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   -I like learning
 
 </details>
-<details>
+
 <details>
   <summary>Day 15: June 12, 2022</summary>
 
@@ -90,7 +91,6 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   #### Notes/Learnings
 
 </details>
-<details>
 
 
 ### Week 2 - June 5-June 11, 2022
