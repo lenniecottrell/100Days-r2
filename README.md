@@ -27,6 +27,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   - Keep styling the modal so it looks right and displays the right information
   #### Notes/Learnings
   - Getting that modal working was way trickier than I thought it would be!
+  - Don't forget to put the right day in the commit message
 
 </details>
 
