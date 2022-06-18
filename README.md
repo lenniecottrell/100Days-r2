@@ -22,8 +22,11 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 20: June 17, 2022</summary>
 
   #### Things I accomplished today:
+  - I built out the basic skeleton of the book detail page and added it as a modal on the main page
   #### Things I want to focus on tomorrow:
+  - Keep styling the modal so it looks right and displays the right information
   #### Notes/Learnings
+  - Getting that modal working was way trickier than I thought it would be!
 
 </details>
 
@@ -37,6 +40,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   - Build out the book detail page
   #### Notes/Learnings
   - My main app page is currently rendering twice on initial load - I gotta figure that out.
+  - Things not to forget about: TDD, Redux
 
 </details>
 
