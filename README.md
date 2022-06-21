@@ -7,14 +7,87 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Build small React projects with different free APIs
 >  - Build sample CRUD apps
 
+### Week 4 - June 19-June 25, 2022
+
+<details>
+  <summary>Day 27: June 25, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 27: June 24, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 26: June 23, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 25: June 22, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 24: June 21, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 23: June 20, 2022</summary>
+
+  #### Things I accomplished today:
+  - I tried to refactor my list component with `map()` instead of creating an array with a for loop, but I ended up breaking it a lot more :(
+  - On the upside, I submitted two PRs to my company codebase today, so that's pretty exciting, and I think should count towards this project
+  #### Things I want to focus on tomorrow:
+  - Keep working on the card grid state
+  - Start a new linked list problem so I don't let it get stale
+  #### Notes/Learnings
+  - This is an annoying problem!!!
+
+</details>
+
+<details>
+  <summary>Day 22: June 19, 2022</summary>
+
+  #### Things I accomplished today:
+  - I watched a new linked List video about the Iterable interface in Java. I'm not sure if I'll end up using the info from this video because I'm not using Java, but I'm sure that the concept is valuable, and it was the last video before getting into doubly linked lists and circular lists
+  - I realized that moving my API call did not in fact solve my problem of selecting a specific card. I need to figure out how to set the state of the card grid with a "selected" card.
+  #### Things I want to focus on tomorrow:
+  - Keep working on the grid
+  #### Notes/Learnings
+  - This is my first major stumbling block on this project. I hate to be impeded by something that feels so fundamental to React, but I need to remind myself that I'm still learning, people have solved this problem before, and I'll figure it out eventually if I keep at it.
+
+</details>
+
 ### Week 3 - June 12-June 18, 2022
 
 <details>
   <summary>Day 21: June 18, 2022</summary>
 
   #### Things I accomplished today:
+  - I realized I didn't know how to get book data into my book detail page, and started thinking I might need Redux for that. After reading a bit about Redux I realized I just needed to move my API call to the book grid component instead.
+  - I'm actually not 100% sure this solves my problem, but I'm going to work on it for a while to see if I can make it work. Then I'll revisit redux if I can't.
   #### Things I want to focus on tomorrow:
+  - Keep working on the book detail page
   #### Notes/Learnings
+  - Reading about use cases for redux was helpful before I just dove right in. The idea that planning and preparation is a better approach than just jumping right into the code is sinking deeper and deeper into my awareness as I work on this.
 
 </details>
 
