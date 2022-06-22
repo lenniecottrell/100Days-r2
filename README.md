@@ -45,8 +45,12 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 24: June 21, 2022</summary>
 
   #### Things I accomplished today:
+  - I was really tired today and had a busy day, so I didn't accomplish much, but I started thinking about how to reverse a linked list. With the time and mental space I have this week it will probably take me a few days to work out a test solution. 
   #### Things I want to focus on tomorrow:
+  - I want to keep working on reversing a linked list
+  - work on the card if I have time
   #### Notes/Learnings
+  - Must. Not. Criticize. Myself. For. Being. Tired.
 
 </details>
 <details>
