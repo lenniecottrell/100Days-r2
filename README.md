@@ -37,8 +37,12 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 25: June 22, 2022</summary>
 
   #### Things I accomplished today:
+  - I started actually working on reversing a linked list. I have some pseudocode I think will work, I just need to do the hard part of actually implementing it
   #### Things I want to focus on tomorrow:
+  - I'll keep working away at this problem.
   #### Notes/Learnings
+  - I tried to modularize the implementation of a linked list and an addLast() method and got caught up in the npm requirements of modules, but when I was testing my implementation it was working and I only had to look up one thing
+  - This will take me a little while, but I really want to figure this out before looking up an answer
 
 </details>
 <details>
