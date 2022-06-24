@@ -29,8 +29,11 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 26: June 23, 2022</summary>
 
   #### Things I accomplished today:
+  - Back to the book app. I'm struggling with a problem that feels trivial, and all I accomplished today was more struggle
   #### Things I want to focus on tomorrow:
+  - I try to balance time between working a project and DSA study, but it's hard to be patient with progress when you're stuck on a problem in both realms. I think I might try to go back to reversing a linked list tomorrow, and come back to this problem in my app once I solve that one.
   #### Notes/Learnings
+  - Sometimes I feel like I really understand how to do this work, and sometimes I still feel like a dumb baby. I hope I can get a job as a developer even when there are still times I feel like a dumb baby. Is that the bar for getting a dev job? Not ever feeling like a dumb baby anymore?
 
 </details>
 <details>
@@ -75,8 +78,8 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 22: June 19, 2022</summary>
 
   #### Things I accomplished today:
-  - I watched a new linked List video about the Iterable interface in Java. I'm not sure if I'll end up using the info from this video because I'm not using Java, but I'm sure that the concept is valuable, and it was the last video before getting into doubly linked lists and circular lists
-  - I realized that moving my API call did not in fact solve my problem of selecting a specific card. I need to figure out how to set the state of the card grid with a "selected" card.
+  - I watched a new linked list video about the Iterable interface in Java. I'm not sure if I'll end up using the info from this video because I'm not using Java, but I'm sure that the concept is valuable, and it was the last video before getting into doubly linked lists and circular lists
+  - I realized that moving my API call did not, in fact, solve my problem of selecting a specific card. I need to figure out how to set the state of the card grid with a "selected" card.
   #### Things I want to focus on tomorrow:
   - Keep working on the grid
   #### Notes/Learnings
