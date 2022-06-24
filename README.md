@@ -21,8 +21,12 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 27: June 24, 2022</summary>
 
   #### Things I accomplished today:
+  - I reworked my implementation of the linked list and I got really close to figuring out the right syntax to reverse it, but I'm not quite there yet. I'm close though, and I'm confident that I can come up with my own (brute force) solution before I need to look up answers
   #### Things I want to focus on tomorrow:
+  - Tomorrow I will be taking a break since I'm going to a wedding. Back to in on Sunday!
+  - On sunday I will solve this problem!
   #### Notes/Learnings
+  - I did the beginning of this process on paper, which allowed me to think through the problem fully before jumping in to actual code. Now that I'm just struggling with implementation, I think it's better that I'm able to test it in VScode.
 
 </details>
 <details>
