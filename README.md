@@ -7,10 +7,46 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Build small React projects with different free APIs
 >  - Build sample CRUD apps
 
-### Week 4 - June 19-June 25, 2022
+### Week 5 - June 27-July 3, 2022
 
 <details>
-  <summary>Day 27: June 25, 2022</summary>
+  <summary>Day 33: July 3, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 32: July 2, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 31: July 1, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 30: June 30, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 29: June 29, 2022</summary>
 
   #### Things I accomplished today:
   #### Things I want to focus on tomorrow:
@@ -18,8 +54,24 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 </details>
 <details>
-  <summary>Day 27: June 24, 2022</summary>
+  <summary>Day 28: June 28, 2022</summary>
+  
+ I went to a wedding this past weekend so I took satuday and sunday off, and I just couldn't fit it in on monday, so I'm starting back up Tuesday. This upcoming weekend will also be weird because my aprents are in town - I will try to code in the mornings as usual but might not get to it every day.
+ 
+  #### Things I accomplished today:
+  - I'm still working on reversing a linked list - as I was debugging I learned that there were issues with my `removeLast` and `addFirst` methods. I think I successfully debugged and tested `addFirst` but I have more to do with `removeLast`. I'm getting closer though
+  #### Things I want to focus on tomorrow:
+  - Solve. This. Problem.
+  #### Notes/Learnings
+  - On leetcode the implementation will have to be different - right now I'm implementing methods as part of the LinkedList class, but I don't know if I can manipulate the class on leetcode. 
 
+</details>
+
+### Week 4 - June 19-June 25, 2022
+
+<details>
+  <summary>Day 27: June 24, 2022</summary>
+  
   #### Things I accomplished today:
   - I reworked my implementation of the linked list and I got really close to figuring out the right syntax to reverse it, but I'm not quite there yet. I'm close though, and I'm confident that I can come up with my own (brute force) solution before I need to look up answers
   #### Things I want to focus on tomorrow:
