@@ -14,7 +14,6 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
   #### Things I accomplished today:
   #### Things I want to focus on tomorrow:
-
   #### Notes/Learnings
 
 </details>
@@ -23,7 +22,6 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
   #### Things I accomplished today:
   #### Things I want to focus on tomorrow:
-
   #### Notes/Learnings
 
 </details>
@@ -32,7 +30,6 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
   #### Things I accomplished today:
   #### Things I want to focus on tomorrow:
-
   #### Notes/Learnings
 
 </details>
@@ -40,17 +37,22 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 30: June 30, 2022</summary>
 
   #### Things I accomplished today:
+  - I FINALLY REVERSED A LINKED LIST!!!! The problem before was that I wasn't resetting `current` back to the head on subsequent interations, so after the first removal the loop didn't run.
   #### Things I want to focus on tomorrow:
-
+  - My parents are in town but I'm still gonna try to get up early to code. Back to the book app, where I'm stuck on another problem. Hopefully coming back to it with fresh eyes will be helpful
   #### Notes/Learnings
+  - I want to write a blog post about this process! I made so many mistakes!
 
 </details>
 <details>
   <summary>Day 29: June 29, 2022</summary>
 
   #### Things I accomplished today:
+  - I was able to fix my `removeLast` method enough so that I can successfully reverse a linked list with up to two elements. It doesn't work when I add a third element. WHYYYYYYYYY
   #### Things I want to focus on tomorrow:
+  - Keep working on this problem. If I can't figure it out tomorrow I will ask for help, but I won't look up alternate solutions until I have solved it at least once by myself.
   #### Notes/Learnings
+  - Progress is slow when you have a very limited time each day.
 
 </details>
 <details>
