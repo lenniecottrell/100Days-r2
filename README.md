@@ -29,8 +29,12 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 31: July 1, 2022</summary>
 
   #### Things I accomplished today:
+  - I jumped back into the book app today. It took a minute to get my brain back in the mode but eventually I got into it again. Daily work will be helpful
   #### Things I want to focus on tomorrow:
+  - Keep working on reorganizing the data to make it easier to use and more "react-like"
+  - Keep working on dispoalying the data as a selectable card
   #### Notes/Learnings
+  - I'm super stuck on this, and being stuck sucks. I'll keep working at it until I get it. 
 
 </details>
 <details>
