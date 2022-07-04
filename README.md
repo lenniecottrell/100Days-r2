@@ -18,11 +18,15 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 </details>
 <details>
-  <summary>Day 32: July 2, 2022</summary>
+  <summary>Day 32: July 3, 2022</summary>
 
   #### Things I accomplished today:
+  - Kept working on reorganizing my API data in react so it's easier to work with
+  - I refactored a bunch of stuff but I;m still having trouble dealing with undefined data.
   #### Things I want to focus on tomorrow:
+  - If I have time, keep working on this
   #### Notes/Learnings
+  - Maybe I need to do some react tutorials to review some react concepts...
 
 </details>
 <details>
