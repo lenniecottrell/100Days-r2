@@ -7,16 +7,60 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Build small React projects with different free APIs
 >  - Build sample CRUD apps
 
-### Week 5 - June 27-July 3, 2022
+### Week 6 - July 4-July 10, 2022
 
 <details>
-  <summary>Day 33: July 3, 2022</summary>
+  <summary>Day 37: July 10, 2022</summary>
 
   #### Things I accomplished today:
   #### Things I want to focus on tomorrow:
   #### Notes/Learnings
 
 </details>
+<details>
+  <summary>Day 36: July 9, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 35: July 8, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+<details>
+  <summary>Day 34: July 7, 2022</summary>
+
+  #### Things I accomplished today:
+  - I was finally able to select a single book and pass the data to the modal component on a click
+  - I made the "find in overdrive" link look like a button
+  #### Things I want to focus on tomorrow:
+  - Style the modal and fix the cards
+  - Add buttons to "add to library"
+  #### Notes/Learnings
+  - This was a pretty common and trivial thing to do in React, and I'm glad that my blocker was not my understanding of it, but just a simple syntax error.
+
+</details>
+
+<details>
+  <summary>Day 33: July 6, 2022</summary>
+
+  #### Things I accomplished today:
+  - Turns out the undefined data wasn't my issue (thank god, I felt so dumb), the problem was I had brackets around my mapped JSX, so the map was returning an awrray of undefined. Still feel dumb, but not as dumb because I did actually know what I was doing, I just had a stupid syntax error.
+  - I watched the videos on doubly linked lists and circular lists, but I will watch them again and take notes
+  #### Things I want to focus on tomorrow:
+  - Keep working on selecting a single book
+  #### Notes/Learnings
+
+</details>
+
+### Week 5 - June 27-July 3, 2022
+
 <details>
   <summary>Day 32: July 3, 2022</summary>
 
