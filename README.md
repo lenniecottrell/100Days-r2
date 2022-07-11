@@ -18,19 +18,27 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 </details>
 <details>
-  <summary>Day 36: July 9, 2022</summary>
+  <summary>Day 36: July 10, 2022</summary>
 
   #### Things I accomplished today:
+  - I decided to revisit using google for authentication rather than building my own system and adding stuff to a backend, and I think it'll work fine (I'm trying to do less from scratch this time around)
+  - I started building out a pretty basic sign-in flow with some npm packages, but as soon as I got it working Google gave me a warning that I was using a soon-to-be-deprecated library and I'd need to upgrade, so I had to backtrack
   #### Things I want to focus on tomorrow:
+  - Keep going with this login issue, I don't think it'll take that long actually (...he said ominously)
   #### Notes/Learnings
+  - This round has been less consistent than round 1, but I have a baby coming and I'm trying to spend quality time with my wife before we have the kid, so I don't feel that bad about missing a day. As long as I stay on track with my goals and keep making progress, that's the important part
+  - I've been reminded that I enjoy the consistency of daily learning/building, and when this is over I would like to build in an hour of learning/building every day even if it's not in the formal structure of #100DaysOfCode
 
 </details>
 <details>
   <summary>Day 35: July 8, 2022</summary>
 
   #### Things I accomplished today:
+  - I started thinking about how to add things to "My Library" in my book app, and originally I was thinking I could use the Google Books API for that (I think I still can?) but then I thought I might need a database to store everything, so I started looking into MongoDB, and that research was all I really had time for.
   #### Things I want to focus on tomorrow:
+  - Keep going with Mongo, but also maybe spend some more time deciding if I really actually need to do it this way or not.
   #### Notes/Learnings
+  - I haven't made anything with Mongo or any NoSQL DB yet, so I definitely want to come back to it.
 
 </details>
 <details>
@@ -86,7 +94,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 </details>
 <details>
-  <summary>Day 30: June 30, 2022</summary>
+  <summary>Day 30: June 30, 2022***</summary>
 
   #### Things I accomplished today:
   - I FINALLY REVERSED A LINKED LIST!!!! The problem before was that I wasn't resetting `current` back to the head on subsequent interations, so after the first removal the loop didn't run.
