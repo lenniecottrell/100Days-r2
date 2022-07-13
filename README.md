@@ -7,16 +7,72 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Build small React projects with different free APIs
 >  - Build sample CRUD apps
 
-### Week 6 - July 4-July 10, 2022
+
+
+### Week 7 - July 11 -July 17, 2022
 
 <details>
-  <summary>Day 37: July 10, 2022</summary>
+  <summary>Day 42: July 17, 2022</summary>
 
   #### Things I accomplished today:
   #### Things I want to focus on tomorrow:
   #### Notes/Learnings
 
 </details>
+
+<details>
+  <summary>Day 41: July 16, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 40: July 15, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 39: July 14, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 38: July 13, 2022</summary>
+
+  #### Things I accomplished today:
+  - I'm still digging into Google Identity Services. I tried using some pre-built stuff from NPM but I can't seem to get the things I need from it, so I keep having to backtrack and learn how to implement it directly. This is probably a good thing in the long run.
+  #### Things I want to focus on tomorrow:
+  - Keep working on this - I'm going to stick to this goal until I am able to add books to my library
+  #### Notes/Learnings
+  - Be patient, be consistent, you'll get there
+
+</details>
+
+<details>
+  <summary>Day 37: July 11, 2022</summary>
+
+  #### Things I accomplished today:
+  - Did more research/tinkering with google auth - I still think it'll serve my purposes but it's taking a while to know how to implement it correctly. I think I need to use React Context?
+  #### Things I want to focus on tomorrow:
+  - Keep working on this
+  #### Notes/Learnings
+  - Glad to try a new tool like React Context
+
+</details>
+
+### Week 6 - July 4-July 10, 2022
+
 <details>
   <summary>Day 36: July 10, 2022</summary>
 
