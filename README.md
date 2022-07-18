@@ -21,11 +21,18 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
-  <summary>Day 41: July 16, 2022</summary>
+  <summary>Day 41: July 17, 2022</summary>
 
   #### Things I accomplished today:
+  - I missed yesterday but I made it up today with some big progress!
+  - I figured out how to get the access token I need for the google books api
+  - I re-wrote my book detail modal to include options for which shelf I needed to add the book do
+  - I created a backend to store my API key to make authenticated requests
   #### Things I want to focus on tomorrow:
+  - I need to connect my backend and frontend to send the bookdata to the backend, make the request with the API key, and send the data back to the frontend
   #### Notes/Learnings
+  - The most secure way to store sensitive data in a react app is to store it in a backend and make requests from the backend. 
+  - I made big progress today! I'm getting closer and closer to getting all the pieces together, I can feel it coming
 
 </details>
 
@@ -33,7 +40,9 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 40: July 15, 2022</summary>
 
   #### Things I accomplished today:
+  - I finally figured out the difference between authorization and authentication - for my purposes I need authorization in my app ising an OAuth implicit flow to get a token for the books API. Actually implementing it is proving challenging, mostly because Google's docs are difficult to navigate. It's hard to tell what's relevant to me and useful
   #### Things I want to focus on tomorrow:
+  - Keep working on this
   #### Notes/Learnings
 
 </details>
@@ -42,8 +51,13 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 39: July 14, 2022</summary>
 
   #### Things I accomplished today:
+  - I did a lot of reading about using google authentication and mad a couple of attempt adding it to my app. 
+  - I got the basic user data, but haven't figured out hwo to get a token yet
   #### Things I want to focus on tomorrow:
+  - Still working on this
   #### Notes/Learnings
+  - The first tutorial I watched used tools that are now deprecated since Google's move to Google Identity Services, so I had to backtrack and start over. I'm trying to just use Google's docs and guides
+  - The google docs are confusing
 
 </details>
 
