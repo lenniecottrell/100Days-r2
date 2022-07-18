@@ -6,13 +6,12 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Learn how to solve leetcode questions
 >  - Build small React projects with different free APIs
 >  - Build sample CRUD apps
-
-
-
-### Week 7 - July 11 -July 17, 2022
+> 
+### Week 8 - July 18 - July 20, 2022
+#### This week will be short because I'm going on vacation
 
 <details>
-  <summary>Day 42: July 17, 2022</summary>
+  <summary>Day 42: July 18, 2022</summary>
 
   #### Things I accomplished today:
   - Changed my API key and reset my .env file so it doesn't get tracked!
@@ -27,6 +26,8 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   - If I had the whole day free I feel like I could make massive progress on this project
 
 </details>
+
+### Week 7 - July 11 -July 17, 2022
 
 <details>
   <summary>Day 41: July 17, 2022</summary>
