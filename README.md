@@ -15,8 +15,16 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 42: July 17, 2022</summary>
 
   #### Things I accomplished today:
+  - Changed my API key and reset my .env file so it doesn't get tracked!
+  - Wrote my basic routes for the backend
+  - Connected my frontend to the backend and sent request parameters
+  - Sent basic responses to the frontend
   #### Things I want to focus on tomorrow:
+  - Make a request from the backend to the google books API and actually send book data to the frontend - I should plan out how that's actually going to work in my app...
   #### Notes/Learnings
+  - Always make sure .env files are in the .gitignore BEFORE you start coding!
+  - I achieved everything I said I wanted to work on today
+  - If I had the whole day free I feel like I could make massive progress on this project
 
 </details>
 
