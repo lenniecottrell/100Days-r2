@@ -11,16 +11,28 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 #### This week will be short because I'm going on vacation
 
 <details>
-  <summary>Day 42: July 20, 2022</summary>
+  <summary>Day 44: July 20, 2022</summary>
 
   #### Things I accomplished today:
+  -Opened and closed a PR for the `feature/addToLibrary` branch.
+  - I added a route to the backend to GET an authenticated user's shelves and successfully returned a book I added via my app
+  - I added a custom hook to use Context for the Token value. It works, but I still need a deeper understanding of Context
   #### Things I want to focus on tomorrow:
+  -Tomorrow I'll be off the grid! When I get back, focus on rendering the shelves. I need to adapt the CardGrid component for the shelves, but I already have a good idea about how to do it
   #### Notes/Learnings
+  - I found out that currently I can only log in on the landing page. That isn't a problem, but I need to deal with it
+  - Still to do, in a loose order:
+    - Render the shelves
+    - Differentiate between the GET shelf calls in the backend
+    - remove books from shelves
+    - Deal with the sign in button state
+    - Add sorting
+    - Clean up styles
 
 
 </details>
 <details>
-  <summary>Day 42: July 19, 2022 *****</summary>
+  <summary>Day 43: July 19, 2022 *****</summary>
 
   #### Things I accomplished today:
   - I finally got my backend request working, and added a book to my google books library!
