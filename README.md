@@ -11,6 +11,33 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 #### This week will be short because I'm going on vacation
 
 <details>
+  <summary>Day 42: July 20, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+
+</details>
+<details>
+  <summary>Day 42: July 19, 2022 *****</summary>
+
+  #### Things I accomplished today:
+  - I finally got my backend request working, and added a book to my google books library!
+  #### Things I want to focus on tomorrow:
+  - add the other calls to the other shelves
+  - Start working on what happens once the backend gets the response
+  #### Notes/Learnings
+  - Still to do, in no particular order: 
+    - Remove books from shelves
+    - render the shelves and handle auto updates?
+    - add sorting
+    - add pagination/load more
+    - handle rendering of the sign in button if you're signed in
+    - clean up the styles of the book detail page
+
+</details>
+<details>
   <summary>Day 42: July 18, 2022</summary>
 
   #### Things I accomplished today:
