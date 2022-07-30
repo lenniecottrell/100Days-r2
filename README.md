@@ -111,8 +111,17 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 45: July 29, 2022</summary>
 
   #### Things I accomplished today:
+  - I got the "My Library" page working. It now renders books from any of the available shelves!
   #### Things I want to focus on tomorrow:
+  - design and add a button to remove a book from a bookshelf - maybe it can go in the bookdetail component somehow? Or make a similar but slightly different version of the book detail component? that's probably easier
   #### Notes/Learnings
+  - To Do:
+    - add a logged in context
+    - ~~Differentiate between the GET shelf calls in the backend~~
+    - remove books from shelves
+    - Deal with the sign in button state
+    - Add sorting
+    - Clean up styles
 
 </details>
 
