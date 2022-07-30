@@ -6,7 +6,118 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 >  - Learn how to solve leetcode questions
 >  - Build small React projects with different free APIs
 >  - Build sample CRUD apps
-> 
+
+
+<details>
+  <summary>Day 56: August 9, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 55: August 8, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 54: August 7, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 53: August 6, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 52: August 5, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 51: August 4, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 50: August 3, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 49: August 2, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 48: August 1, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 47: July 31, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 46: July 30, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+<details>
+  <summary>Day 45: July 29, 2022</summary>
+
+  #### Things I accomplished today:
+  #### Things I want to focus on tomorrow:
+  #### Notes/Learnings
+
+</details>
+
+### Weeks have kind of broken down... just days from now on
+
 ### Week 8 - July 18 - July 20, 2022
 #### This week will be short because I'm going on vacation
 
