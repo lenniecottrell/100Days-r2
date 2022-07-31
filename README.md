@@ -93,9 +93,21 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 47: July 31, 2022</summary>
 
   #### Things I accomplished today:
+  - I'm stuck again. I started working on the re-load page issue which led me down a rabbit hole of figuring out where state belongs and where to make API calls and how to fetch token data from my server before teh page renders
   #### Things I want to focus on tomorrow:
+  - Gotta figure this out. How do I get the token data from the server before the component renders?
   #### Notes/Learnings
+  - do I need the tab components if I move the API calls/state to MyLibary?
   #### To Do
+    - figure out how to refresh the page without crashing the app
+    - close the modal and re-render when books are removed from a shelf
+    - close the modal with a success message when books are added to a shelf
+    - figure out how to stop multiple authors from adding commas every time the components renders
+    - get the app not to break when you click on "my library" when you're not logged in
+    - add a logged in context?
+    - Deal with the sign in button state
+    - Add sorting
+    - Clean up styles 
 
 </details>
 
@@ -117,7 +129,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
     - add a logged in context?
     - Deal with the sign in button state
     - Add sorting
-    - Clean up styles
+    - Clean up styles 
 
 </details>
 
