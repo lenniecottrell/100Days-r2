@@ -95,6 +95,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   #### Things I accomplished today:
   #### Things I want to focus on tomorrow:
   #### Notes/Learnings
+  #### To Do
 
 </details>
 
@@ -102,8 +103,21 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
   <summary>Day 46: July 30, 2022</summary>
 
   #### Things I accomplished today:
+  - I wrote my backend call to remove a book from a shelf, it works! (after some troubleshooting where I needed to add an empty pair of brackets in the axios call)
+  - I added a `BookDetailShelf` component to be able to remove a book, and change the button appropriately. I wonder if there's a simpler way to do this?
   #### Things I want to focus on tomorrow:
+  - keep working on the close-modal and re-render issue
   #### Notes/Learnings
+  - Programming is an exercise in one-step-forward-two-steps-back. I checked something off in my to do list today, but noticed multiple other things I need to address
+  #### To Do:
+    - close the modal and re-render when books are removed from a shelf
+    - close the modal with a success message when books are added to a shelf
+    - figure out how to stop multiple authors from adding commas every time the components renders
+    - get the app not to break when you click on "my library" when you're not logged in
+    - add a logged in context?
+    - Deal with the sign in button state
+    - Add sorting
+    - Clean up styles
 
 </details>
 
