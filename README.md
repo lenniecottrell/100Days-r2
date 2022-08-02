@@ -89,9 +89,30 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### Things I accomplished today:
 
+- I started to fix the loading issue by creating a modal that prompts the user to log in. This mostly works
+- I need to figure out how to make sure that the app recognizes that the user is logged in when a token exists in the backend already.
+
 #### Things I want to focus on tomorrow:
 
+- Keep working on this! I'm close to wrapping up this issue.
+- Get the welcome modal to only appear on first load
+
 #### Notes/Learnings
+
+- This has been a good exercise in yak shaving XD I started by trying to remove a book, which meant I needed to re-render some components, which means I needed to move state to a different component, but then it would all just be easier if bookshelves weren't accessible in the first place if you weren't logged in...
+
+#### To Do
+
+- Get the welcome modal to only appear on first load
+- figure out the log in timing issue
+- get the app not to break when you click on "my library" when you're not logged in
+- Deal with the sign in button state
+- close the book detail modal and re-render when books are removed from a shelf
+- close the book detail modal and re-render with a success message when books are added to a shelf
+- figure out how to stop multiple authors from adding commas every time the components renders
+- add a logged in context?
+- Add sorting
+- Clean up styles
 
 </details>
 
