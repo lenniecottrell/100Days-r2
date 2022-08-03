@@ -74,13 +74,33 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
-  <summary>Day 50: August 3, 2022</summary>
+  <summary>Day 50: August 3, 2022 ****</summary>
 
 #### Things I accomplished today:
 
+- Woo! I added a bunch of cool stuff today
+  - I added session storage to only show the welcome modal on the first time the user visits in a session. This works really well!
+  - I restricted the My Library page to only work when the use has already logged in
+  - I added a popover to the My Library link that only shows up when the user isn't logged in.
+
 #### Things I want to focus on tomorrow:
 
+- Deal with the sign in button state
+- Go back to closing the detail modals
+
 #### Notes/Learnings
+
+- I implemented session storage for the first time today. Pretty straightforward stuff, but always good to try new things
+- I am learning a ton about when and how to use the useEffect hook
+
+#### To Do
+
+- Deal with the sign in button state
+- close the book detail modal and re-render when books are removed from a shelf
+- close the book detail modal and re-render with a success message when books are added to a shelf
+- figure out how to stop multiple authors from adding commas every time the components renders
+- Add sorting
+- Clean up styles
 
 </details>
 
@@ -103,21 +123,21 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### To Do
 
-- Get the welcome modal to only appear on first load
-- figure out the log in timing issue
-- get the app not to break when you click on "my library" when you're not logged in
+- ~~Get the welcome modal to only appear on first load~~
+- ~~figure out the log in timing issue~~
+- ~~get the app not to break when you click on "my library" when you're not logged in~~
 - Deal with the sign in button state
 - close the book detail modal and re-render when books are removed from a shelf
 - close the book detail modal and re-render with a success message when books are added to a shelf
 - figure out how to stop multiple authors from adding commas every time the components renders
-- add a logged in context?
+- ~~add a logged in context?~~
 - Add sorting
 - Clean up styles
 
 </details>
 
 <details>
-  <summary>Day 48: August 1, 2022</summary>
+  <summary>Day 48: August 1, 2022 ****</summary>
 
 #### Things I accomplished today:
 
