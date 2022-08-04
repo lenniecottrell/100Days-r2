@@ -67,9 +67,22 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### Things I accomplished today:
 
+- I started working on the sign-in button state which proved more complicated than conditional rendering.
+- I needed to add the authorization flow to another one of my routes which felt innefficient, but it works
+- I added a server call to the useToken custom hook to check to see if initial token state exists when the hook is initialized. This solved some flashing issues on navigation, but now I have flashing issues on refresh...
+
 #### Things I want to focus on tomorrow:
 
+- Fix the flashing issue
+- go back to working on what happens in the app after you add/remove a book
+
 #### Notes/Learnings
+
+#### To Do
+
+- fix flashing issue with the sign in button on refresh
+- handle search on the library shelves
+- handle sign out
 
 </details>
 
