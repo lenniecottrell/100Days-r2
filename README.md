@@ -56,9 +56,31 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### Things I accomplished today:
 
+- I added toasts to indicate success/errors with adding and removing books from shelves, and got the modals to close and lists to update when books are added/removed. I still added three things to the to do list, but this was important progress :D
+
 #### Things I want to focus on tomorrow:
 
+- I have multiple flashing issues to deal with now, but I'm not going to prioritize that right now (hopefully that doesn't come back to bite me)
+- deal with some smaller things on the to-do list to try and pare it down a bit
+
 #### Notes/Learnings
+
+- I tried to fix the issue with the sign-in button flashing on refresh, and I'm gonna push that to the bottom of the to-do list. It's annoying but it's not crucial to the functionality, and I have other things to work on that are more important
+
+#### To Do
+
+- reorder the list of shelves to be consistent with shelfId
+- prevent adding books twice
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- fix flashing in the sign in button when refreshing
+- add routes to my library to preserve the tab on refresh
+- handle search on the library shelves
+- handle sign out
+- ~~close the book detail modal and re-render when books are removed from a shelf~~
+- ~~close the book detail modal and re-render with a success message when books are added to a shelf~~
+- figure out how to stop multiple authors from adding commas every time the components renders
+- Add sorting
+- Clean up styles
 
 </details>
 
@@ -83,6 +105,11 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 - fix flashing issue with the sign in button on refresh
 - handle search on the library shelves
 - handle sign out
+- close the book detail modal and re-render when books are removed from a shelf
+- close the book detail modal and re-render with a success message when books are added to a shelf
+- figure out how to stop multiple authors from adding commas every time the components renders
+- Add sorting
+- Clean up styles
 
 </details>
 
