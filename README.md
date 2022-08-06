@@ -45,9 +45,28 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### Things I accomplished today:
 
+Today I cleaned up the styles of the book detail cards to make them more pleasing to look at
+
 #### Things I want to focus on tomorrow:
 
+- Deal with the sign out buttong
+- Maybe address some of the flashing issues
+- Add sorting?
+
 #### Notes/Learnings
+
+The google books API returns different volume information depending on whether you're authenticated or not. WTF google?
+
+#### To Do
+
+- figure out how to stop multiple authors from adding commas every time the components renders
+- handle sign out
+- fix flashing in the sign in button when refreshing
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- Add sorting to the main search page
+- ~~Clean up styles~~
+- hide the search bar on MyLibrary
+- preserve the active library tab on refresh
 
 </details>
 
@@ -69,18 +88,17 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### To Do
 
-- reorder the list of shelves to be consistent with shelfId
-- prevent adding books twice
+- ~~reorder the list of shelves to be consistent with shelfId~~
+- figure out how to stop multiple authors from adding commas every time the components renders
+- Clean up styles
+- Add sorting to the main search page
+- hide the search bar on MyLibrary
+- preserve the active library tab on refresh
 - fix flashing in MyLibrary when adding a first book to ReadingNow
 - fix flashing in the sign in button when refreshing
-- add routes to my library to preserve the tab on refresh
-- handle search on the library shelves
 - handle sign out
 - ~~close the book detail modal and re-render when books are removed from a shelf~~
 - ~~close the book detail modal and re-render with a success message when books are added to a shelf~~
-- figure out how to stop multiple authors from adding commas every time the components renders
-- Add sorting
-- Clean up styles
 
 </details>
 
