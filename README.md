@@ -34,9 +34,29 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### Things I accomplished today:
 
+I fixed a bunch of minor things today but it really cleaned up the whole experience of the app. I dealt with teh sign-out flow and the state of the sign in/sign out button, and added user feedback so you know if you're signed in or out.
+
 #### Things I want to focus on tomorrow:
 
+- figure out the multiple authors comma problem when books are removed from MyLibrary
+
 #### Notes/Learnings
+
+-It's amazing how most days I can knock out one major piece of functionality and add two or three things to the two do list at the same time.
+-I've said it before I'll say it again - consistency is the key to learning and building.
+-I'm excited to finish this, have a project I'm proud of, and get back into DS&A
+
+#### To Do
+
+- deal with mobile styles
+- change the menu to collapse at a certain breakpoint
+- add the little tool tip about google shortening descriptions
+- add a tooltip to explain the google books API behavior
+- fix flashing in the sign in button when refreshing
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- Add sorting to the main search page
+- hide the search bar on MyLibrary
+- preserve the active library tab on refresh
 
 </details>
 
@@ -49,7 +69,8 @@ Today I cleaned up the styles of the book detail cards to make them more pleasin
 
 #### Things I want to focus on tomorrow:
 
-- Deal with the sign out buttong
+- Fix multiple authors on the BookDetailShelf card
+- Deal with the sign out button
 - Maybe address some of the flashing issues
 - Add sorting?
 
@@ -59,8 +80,9 @@ The google books API returns different volume information depending on whether y
 
 #### To Do
 
-- figure out how to stop multiple authors from adding commas every time the components renders
-- handle sign out
+- ~~figure out how to stop multiple authors from adding commas every time the components renders~~
+- ~~handle sign out~~
+- add a tooltip to explain the goodle books API behavior
 - fix flashing in the sign in button when refreshing
 - fix flashing in MyLibrary when adding a first book to ReadingNow
 - Add sorting to the main search page
