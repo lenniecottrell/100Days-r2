@@ -19,13 +19,30 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
-  <summary>Day 55: August 8, 2022</summary>
+  <summary>Day 55: August 9, 2022</summary>
 
 #### Things I accomplished today:
 
+- I dealt with undefined values on the server when the value returned from a shelf is empty
+- I read a little about `useLayoutEffect` and tried it out a little to see if it helped flashing. I don't think I fully wrapped my brain around it because it didn't seem to make a difference. I went back to trying to fix it with normal `useEffect`
+
 #### Things I want to focus on tomorrow:
 
+- I need to fix the flashing on the initial load of the `MyLibrary` component, but the refresh flashing I will move to a lower priority
+- work on mobile styles
+
 #### Notes/Learnings
+
+#### To Do
+
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- deal with mobile styles
+- change the menu to collapse at a certain breakpoint
+- hide the search bar on MyLibrary
+- Add sorting to the main search page
+- preserve the active library tab on refresh
+- add the little tool tip about google shortening descriptions
+- fix flashing in the sign in button when refreshing
 
 </details>
 
@@ -51,7 +68,6 @@ I fixed a bunch of minor things today but it really cleaned up the whole experie
 - deal with mobile styles
 - change the menu to collapse at a certain breakpoint
 - add the little tool tip about google shortening descriptions
-- add a tooltip to explain the google books API behavior
 - fix flashing in the sign in button when refreshing
 - fix flashing in MyLibrary when adding a first book to ReadingNow
 - Add sorting to the main search page
