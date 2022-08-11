@@ -8,13 +8,65 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build sample CRUD apps
 
 <details>
-  <summary>Day 56: August 9, 2022</summary>
+  <summary>Day 57: August 11, 2022</summary>
 
 #### Things I accomplished today:
 
+- I moved the style of the search bar from my scss file to a chakra component for consistency's sake
+- I removed the search bar from the MyLibrary page. I thought about the value/work of keeping it, and it wasn't worth it. It's unnecessary for a demo app
+- I merged into main some work that fixed an issue when removing a book if there's only one on the shelf
+
 #### Things I want to focus on tomorrow:
 
+- start working on mobile styling
+
 #### Notes/Learnings
+
+- I only added one new thing to the to do list today, and checked two off.
+- I moved sorting lower on the list. I'm anxious to get a demo out, and that can wait
+
+#### To Do
+
+- change alert style if you try to add a book when you're not logged in
+- deal with mobile styles
+- change the menu to collapse at a certain breakpoint
+- add the little tool tip about google shortening descriptions
+- deploy!
+- preserve the active library tab on refresh
+- ~~hide the search bar on MyLibrary~~
+- Add sorting to the main search page
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- ~~deal with the final book being removed (again)~~
+- fix flashing in the sign in button when refreshing
+
+</details>
+
+<details>
+  <summary>Day 56: August 10, 2022</summary>
+
+#### Things I accomplished today:
+
+- Today I mostly floundered around trying to fix the flashing issues when the MyLibrary component mounts. I tried using `useLayoutEffect` which didn't seem to make a difference, and I started considering if my architecture is over engineered (do I really _need_ a server?), but I really don't want to have to go back and redesign everything if I can avoid it
+
+#### Things I want to focus on tomorrow:
+
+- I think I'd like to prioritize getting a demo out, and I can ask for help with the flashing once I have that set up.
+- Focus on the final tasks like sorting, mobile styles, hiding the search bar on the my library page
+
+#### Notes/Learnings
+
+- This flashing thing is a real thorn in my side - I thought I had solved it by adding a timeout in `useEffect` when the MyLibrary component loads, but that doesn't actually seem to make a difference. My suspicion now is that the initial state of an empty array is always rendered because of the logic I've written, so I either need to change my logic or change my initial state, or something. It's definitely a timing issue because `useState` is async.
+
+#### To Do
+
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- deal with mobile styles
+- change the menu to collapse at a certain breakpoint
+- hide the search bar on MyLibrary
+- Add sorting to the main search page
+- preserve the active library tab on refresh
+- add the little tool tip about google shortening descriptions
+- fix flashing in the sign in button when refreshing
 
 </details>
 
