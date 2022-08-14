@@ -8,6 +8,69 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build sample CRUD apps
 
 <details>
+  <summary>Day 59: August 14, 2022</summary>
+
+#### Things I accomplished today:
+
+- Had to skip a day since my in-laws are in town and we had some house projects to do.
+- I did some good hard work today and made up for yesterday. I found some great chakraUI templates [here](https://chakra-templates.dev/navigation/navbar) and adapted one to fit my needs to I could collapse the menu.
+  - The way they did this was really smart! Instead of needing an if statement, they just used different display styles to hide/show the menu depending on the screen size. Under the hood this uses @media queries with `min-width` but it's a little cleaner with chakra
+- I also added link overlays to the collapsed menu so that the whole row is clickable, instead of just the word. Much better UX
+
+#### Things I want to focus on tomorrow:
+
+- Finish fleshing out the mobile styles - shouldn't be super hard (fingers crosses)
+
+#### Notes/Learnings
+
+- I'm glad those templates exist because I would have been scratching my head quite a lot to figure this out. I also had to do a lot of tweaking to get it to work for me, I didn't just copy/paste. Actually, copy/pasting code pretty much never works, because everyone's codebase is different, and if you don't understand what you're pasting, you'll either introduce some weird side effects or break something outright.
+
+#### To Do
+
+- ~~Figure out how to collapse the nav menu for mobile~~
+- Get rid of the new warning about a button can't be a child of a button
+- deal with mobile styles for the detail page(s)
+- deal with mobile styles for MyLibrary
+- change alert style if you try to add a book when you're not logged in
+- add the little tool tip about google shortening descriptions
+- deploy!
+- preserve the active library tab on refresh
+- Add sorting to the main search page
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- fix flashing in the sign in button when refreshing
+
+</details>
+
+<details>
+  <summary>Day 58: August 12, 2022</summary>
+
+#### Things I accomplished today:
+
+- Started working on mobile styles. Chakra makes it prettty easy, except I'm not sure how to collapse the menu. I might need to go the traditional way with a media query and classnames rather than chakra's built-in system and conditional react
+
+#### Things I want to focus on tomorrow:
+
+- Keep working on mobile styles
+
+#### Notes/Learnings
+
+- Collapsing the nav menu has been the first style related thing that Chakra doesn't make really easy.
+
+#### To Do
+
+- Figure out how to collapse the nav menu for mobile
+- deal with mobile styles for the detail page
+- change alert style if you try to add a book when you're not logged in
+- add the little tool tip about google shortening descriptions
+- deploy!
+- preserve the active library tab on refresh
+- Add sorting to the main search page
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- fix flashing in the sign in button when refreshing
+
+</details>
+
+<details>
   <summary>Day 57: August 11, 2022</summary>
 
 #### Things I accomplished today:
