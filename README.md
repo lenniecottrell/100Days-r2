@@ -7,6 +7,56 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build small React projects with different free APIs
 > - Build sample CRUD apps
 
+Template:
+
+<details>
+  <summary>CodingDay XX: Month XX, 2022</summary>
+
+#### Things I accomplished today:
+
+#### Things I want to focus on tomorrow:
+
+#### Notes/Learnings
+
+#### To Do
+
+</details>
+
+<details>
+  <summary>Day 60: August 15, 2022</summary>
+
+#### Things I accomplished today:
+
+- I pretty much finished most of the mobile styles today AFAIK
+- I discovered a bug in My Library when there were no authors listed in the results. I fixed it quickly!
+- Yesterday (maybe today?) I created a bug in the warning popover where it doesn't dismiss on desktop. It works fine on mobile for some reason, but I should deal with that next, then I can merge this branch into main.
+
+#### Things I want to focus on tomorrow:
+
+- Fix the popover issue
+- Fix the alert style if you're not logged in
+- Add the little tool tip to the BookDetailShelf component.
+
+#### Notes/Learnings
+
+Now that I know what I'm doing with responsive styles in Chakra, I loooooove it.
+
+#### To Do
+
+- Fix popover issue
+- Get rid of the new warning about a button can't be a child of a button
+- ~~deal with mobile styles for the detail page(s)~~
+- ~~deal with mobile styles for MyLibrary~~
+- change alert style if you try to add a book when you're not logged in
+- add the little tool tip about google shortening descriptions
+- deploy!
+- preserve the active library tab on refresh
+- Add sorting to the main search page
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- fix flashing in the sign in button when refreshing
+
+</details>
+
 <details>
   <summary>Day 59: August 14, 2022</summary>
 
@@ -28,6 +78,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 #### To Do
 
 - ~~Figure out how to collapse the nav menu for mobile~~
+- Fix popover issue
 - Get rid of the new warning about a button can't be a child of a button
 - deal with mobile styles for the detail page(s)
 - deal with mobile styles for MyLibrary
