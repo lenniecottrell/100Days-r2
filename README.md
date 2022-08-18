@@ -7,8 +7,6 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build small React projects with different free APIs
 > - Build sample CRUD apps
 
-Template:
-
 <details>
   <summary>***Template Day XX: Month XX, 2022</summary>
 
