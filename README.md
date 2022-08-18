@@ -10,7 +10,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 Template:
 
 <details>
-  <summary>CodingDay XX: Month XX, 2022</summary>
+  <summary>***Template Day XX: Month XX, 2022</summary>
 
 #### Things I accomplished today:
 
@@ -21,6 +21,7 @@ Template:
 #### To Do
 
 </details>
+
 <details>
   <summary>Day 62: August 18, 2022</summary>
 
