@@ -21,6 +21,61 @@ Template:
 #### To Do
 
 </details>
+<details>
+  <summary>Day 62: August 18, 2022</summary>
+
+#### Things I accomplished today:
+
+- I decided to scrap the alert altogether and just disable the menu if you're not logged in. I tried to add a little tool tip to encourage the user to log in, but the UI/UX seemed messy so I just disabled it. There are already two places where the user is encouraged to log in, I think that's enough feedback.
+
+#### Things I want to focus on tomorrow:
+
+- Try to add the tool tip about the weird google books behavior
+- Figure out how to display languages
+- Start reading about deploying!
+
+#### Notes/Learnings
+
+#### To Do
+
+- ~~change alert style if you try to add a book when you're not logged in~~
+- add the little tool tip about google shortening descriptions
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- deploy!
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- Add sorting to the main search page
+- fix flashing in the sign in button when refreshing
+
+</details>
+
+<details>
+  <summary>Day 61: August 16, 2022</summary>
+
+#### Things I accomplished today:
+
+- I started trying to implement a different alert to match the UI style, haven't figured it out yet.
+
+#### Things I want to focus on tomorrow:
+
+- Keep working on the alert style
+
+#### Notes/Learnings
+
+- This is the first Chakra component that doesn't feel straightforward and easy to use, but that may be because I'm trying to put an alert on a modal that already uses the `useDesclosure` methods, and I can't re-use them.
+
+#### To Do
+
+- change alert style if you try to add a book when you're not logged in
+- Get rid of the new warning about a button can't be a child of a button
+- add the little tool tip about google shortening descriptions
+- deploy!
+- preserve the active library tab on refresh
+- Add sorting to the main search page
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- fix flashing in the sign in button when refreshing
+
+</details>
 
 <details>
   <summary>Day 60: August 15, 2022</summary>
@@ -33,7 +88,7 @@ Template:
 
 #### Things I want to focus on tomorrow:
 
-- Fix the popover issue
+- ~~Fix the popover issue~~
 - Fix the alert style if you're not logged in
 - Add the little tool tip to the BookDetailShelf component.
 
