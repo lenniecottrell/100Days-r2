@@ -21,6 +21,36 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 63: August 22, 2022</summary>
+
+#### Things I accomplished today:
+
+- I successfully added a sort feature to the main search page today. Right now it sorts by year, ingnoring month and day, so I'll need to come back and do that, but I really want to get a demo up so I think I can focus on that now.
+- I used this as a reference: https://www.youtube.com/watch?v=e4ajd_fINX8&list=PL_kAgwZgMfWx52BOjXE1GSWqN3Wyx13OC&index=4&ab_channel=JasonRivera
+
+#### Things I want to focus on tomorrow:
+
+- add a cleanData() method to account for missing fields in the volumeInfo
+- research deploying to heroku
+
+#### Notes/Learnings
+
+- keeping this log has been so incredibly helpful - This is a practice I definitely want to carry into all future projects
+
+#### To Do
+
+- add a cleanData() method to make sure the app doesn't break when there are missing fields
+- add the little tool tip about google shortening descriptions
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- deploy!
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- ~~Add sorting to the main search page~~
+- fix flashing in the sign in button when refreshing
+
+</details>
+
+<details>
   <summary>Day 62: August 18, 2022</summary>
 
 #### Things I accomplished today:
