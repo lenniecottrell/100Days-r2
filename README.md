@@ -19,6 +19,36 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 #### To Do
 
 </details>
+<details>
+  <summary>Day 64: August 23, 2022</summary>
+
+#### Things I accomplished today:
+
+- I added a couple more checks to account for missing fields in the API call to google.
+- I added a little tooltip to explain the cut off description in the book detail shelf
+- Started looking into deploying
+
+#### Things I want to focus on tomorrow:
+
+- Read the Vite docs about building/deploying
+- Read the Heroku docs about building/deploying
+- Try to deploy a demo
+
+#### Notes/Learnings
+
+- building and deploying is still an area where I have a lot to learn. I feel really comfortable developing locally, but the build/deploy process is still pretty confusing.
+
+#### To Do
+
+- ~~add a cleanData() method to make sure the app doesn't break when there are missing fields~~
+- ~~add the little tool tip about google shortening descriptions~~
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- deploy!
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+
+</details>
 
 <details>
   <summary>Day 63: August 22, 2022</summary>
