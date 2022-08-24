@@ -19,6 +19,33 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 #### To Do
 
 </details>
+
+<details>
+  <summary>Day 65: August 24, 2022</summary>
+
+#### Things I accomplished today:
+
+- I read a bunch of docs and opened a bunch of tabs and attempted to deploy this app unsuccessfully
+
+#### Things I want to focus on tomorrow:
+
+- Keep working on deploying
+
+#### Notes/Learnings
+
+- There has to be a better way. Heroku is always a pain in the butt.
+
+#### To Do
+
+- deploy!
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add more results/pagination?
+
+</details>
+
 <details>
   <summary>Day 64: August 23, 2022</summary>
 
