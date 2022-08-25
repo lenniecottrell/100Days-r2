@@ -21,6 +21,32 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 66: August 25, 2022</summary>
+
+#### Things I accomplished today:
+
+- Still working on deploying. All I did besides read docs and google stuff was add the 'concurrently' package to the project, which I do think I'll need once I figure out what I need to do to deploy the build
+
+#### Things I want to focus on tomorrow:
+
+- Keep working on deployment
+
+#### Notes/Learnings
+
+- The trouble with this is that I don't understand what needs to happen. Tutorials are useful but rarely explain in generic terms what's going on. When I build locally, the client runs on localhost, but when I build for prod, the files need to be served somehow and I don't actually know how to do that. I need more practice at this specifically.
+
+#### To Do:
+
+- deploy!
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add more results/pagination?
+
+</details>
+
+<details>
   <summary>Day 65: August 24, 2022</summary>
 
 #### Things I accomplished today:
