@@ -21,6 +21,32 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 67: August 26, 2022</summary>
+
+#### Things I accomplished today:
+
+- I took my time to be patient and research the deployment process, and after coming back to some of the resources I opened originally, I understood how to use `express.static()` and gave it a shot. So far that works really well locally! I can serve my vite build with my express server on a single port. Now I need to figure out how to deploy it externally...
+
+#### Things I want to focus on tomorrow:
+
+- Keep working on getting this deployment out. At least I made some nice progress today!
+
+#### Notes/Learnings
+
+- `express.static()` is a great workaround. I'm really happy to know about it and it makes deployment feel simpler now that I understand more about what needs to be done.
+
+#### To Do
+
+- deploy!
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add more results/pagination?
+
+</details>
+
+<details>
   <summary>Day 66: August 25, 2022</summary>
 
 #### Things I accomplished today:
