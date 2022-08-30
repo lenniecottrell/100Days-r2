@@ -21,6 +21,85 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 70: August 30, 2022</summary>
+
+#### Things I accomplished today:
+
+- I decided to try out Fly.io to get this project running. I downloaded the fly command line tool, but couldn't get it working on my PATH for some reason. Running the demo app works fine within the bin folder, but I want to be able to create apps elsewhere
+
+#### Things I want to focus on tomorrow:
+
+- Keep working on deploying with Fly, see how far I can get
+
+#### Notes/Learnings
+
+- Gotta remember to stay focused. There are other things to do, but deploying this is my top priority right now
+
+#### To Do
+
+- deploy!
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add more results/pagination?
+
+</details>
+
+<details>
+  <summary>Day 69: August 29, 2022</summary>
+
+#### Things I accomplished today:
+
+- I started looking into fly.io which might be a good option if I can't figure out how to get it going on GoDaddy
+
+#### Things I want to focus on tomorrow:
+
+- Keep researching how to do this
+
+#### Notes/Learnings
+
+- It became very easy to get distracted with other things, like moving my hosting service away from GoDaddy. I still want to do that, but deploying this app is the first priority. I can do that stuff later.
+
+#### To Do
+
+- deploy!
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add more results/pagination?
+
+</details>
+
+<details>
+  <summary>Day 68: August 27, 2022</summary>
+
+#### Things I accomplished today:
+
+- I added the concurrently package to run the server and the client with the same command, which I think will be helpful here, and fixed a CORS error I was having.
+- I looked into trying to host with GoDaddy since I already pay for hosting there. Seems possible, but I'll probably have a number of hurdles to jump.
+
+#### Things I want to focus on tomorrow:
+
+- Keep looking into deploying with GoDaddy
+
+#### Notes/Learnings
+
+- I'm not sure what I need to do here and I feel like I'm in the middle of the ocean without a lifeboat. This is a completely different knowledge area than programming and it's confusing when you don't have much experience with it.
+
+#### To Do
+
+- deploy!
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary when adding a first book to ReadingNow
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add more results/pagination?
+
+</details>
+
+<details>
   <summary>Day 67: August 26, 2022</summary>
 
 #### Things I accomplished today:
