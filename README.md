@@ -21,6 +21,38 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 71: August 31, 2022</summary>
+
+#### Things I accomplished today:
+
+- I deployed! The site is now live on a fly.io docker image.
+- I removed a bunch of console logs
+- I changed all of my localhost endpoints on the client to just be paths - in prod I don't need the localhost because express is serving the frontend, so it's all on the same port.
+
+#### Things I want to focus on tomorrow:
+
+- I'll get feedback from some people today, and add things to the to-do list! I really want to deal with the flashing issue
+- Before I do anything, I need to make sure my development environment is as much like prod as possible, so rebuilding for prod is really easy.
+
+#### Notes/Learnings
+
+- I learned a lot about deploying over the last week or so. Serving a frontend with express.static() makes things pretty easy, and fly.io actually made deploying this site so so simple, thank the lord. I would pay for this service.
+
+#### To Do
+
+- ~~deploy!~~
+- Get feedback from people
+- Get ride of the "headers can't be set after they're sent" warning from the server
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add more results/pagination?
+- Add the ability to move a book to a different shelf
+
+</details>
+
+<details>
   <summary>Day 70: August 30, 2022</summary>
 
 #### Things I accomplished today:
@@ -43,6 +75,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 - preserve the active library tab on refresh
 - fix flashing in the sign in button when refreshing
 - Add more results/pagination?
+- Add the ability to move to a different shelf
 
 </details>
 
