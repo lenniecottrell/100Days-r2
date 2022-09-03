@@ -8,15 +8,90 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build sample CRUD apps
 
 <details>
-  <summary>***Template Day XX: Month XX, 2022</summary>
+  <summary>Day 74: September 3, 2022</summary>
 
 #### Things I accomplished today:
 
+- I worked on the sign in flashing to no avail. I committed my changes but I did not merge them to main
+- I created a new branch to work on the library flashing, also a challenging one! I don't understand why the setTimeout doesn't work...
+
 #### Things I want to focus on tomorrow:
+
+- Keep at these problems for now. Since my app is functional and just has some annoying UI bugs, I could probably try to publish my app as well for more general visibility
+
+#### Notes/Learnings
+
+- The react docs always feel minimally helpful.
+
+#### To Do
+
+- fix flashing in the sign in button when refreshing
+- fix flashing in MyLibrary
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- Get rid of the "headers can't be set after they're sent" warning from the server
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination?
+
+</details>
+
+<details>
+  <summary>Day 73: September 2, 2022</summary>
+
+#### Things I accomplished today:
+
+- I started looking at the flashing when the app is refreshed. I'm really not sure what to do about this, useEffect and useLayoutEffect don't seem to make a difference at all.
+- I noticed that I'm still passing state into the Nav bar, I'm going to try to localize state to the Nav component
+
+#### Things I want to focus on tomorrow:
+
+- keep working on flashing issues
 
 #### Notes/Learnings
 
 #### To Do
+
+- Get feedback from people
+- ~~Edit the About page~~
+- Get rid of the "headers can't be set after they're sent" warning from the server
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add the ability to move a book to a different shelf
+- Add more results/pagination?
+- ~~Add a feedback form?~~
+
+</details>
+
+<details>
+  <summary>Day 72: September 1, 2022</summary>
+
+#### Things I accomplished today:
+
+- I got some feedback from people and gathered some very, very weird behavior. Both me and a friend experienced being signed in by default (not that weird) and having a book already in our library that nethier of us had ever heard of, and it was the same book! (very, very weird!).
+- Other than that, nothing crazy came up, I just need to fix the issues I already know about
+
+#### Things I want to focus on tomorrow:
+
+- Revisit the flashing issues
+
+#### Notes/Learnings
+
+- The futzing I did with deploying is a little messy - I might want to plan out my version control/branches ahead of time next time I do something like this.
+
+#### To Do
+
+- Get feedback from people
+- ~~Edit the About page~~
+- Get rid of the "headers can't be set after they're sent" warning from the server
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- fix flashing in MyLibrary
+- preserve the active library tab on refresh
+- fix flashing in the sign in button when refreshing
+- Add more results/pagination?
+- Add the ability to move a book to a different shelf
+- Add a feedback form?
 
 </details>
 
@@ -42,13 +117,15 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 - ~~deploy!~~
 - Get feedback from people
-- Get ride of the "headers can't be set after they're sent" warning from the server
+- Edit the About page
+- Get rid of the "headers can't be set after they're sent" warning from the server
 - Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
 - fix flashing in MyLibrary
 - preserve the active library tab on refresh
 - fix flashing in the sign in button when refreshing
 - Add more results/pagination?
 - Add the ability to move a book to a different shelf
+- Add a feedback form?
 
 </details>
 
