@@ -8,6 +8,51 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build sample CRUD apps
 
 <details>
+  <summary>Day XX: September XX, 2022</summary>
+
+#### Things I accomplished today:
+
+#### Things I want to focus on tomorrow:
+
+#### Notes/Learnings
+
+#### To Do
+
+</details>
+
+<details>
+  <summary>Day 75: September 4, 2022</summary>
+
+#### Things I accomplished today:
+
+- I finally fixed ONE of my flashing issues! I used localStorage to lok for a value that says the user is logged in to idsplay the right button through reloads.
+- I also created a `deploy-staging` branch to make changes between main and deploy-1 and make sure they work as desired. So the workflow now is work on main -> merge with deploy-staging, make sure it works -> merge with deploy-1
+- I will need to make sure I am truly mocking the prod environment with deploy-staging
+
+#### Things I want to focus on tomorrow:
+
+- Figure out why the about page crashes on reload - that doesn't make a lot of sense...
+- Make sure calls to google books are https
+
+#### Notes/Learnings
+
+-Deploying is still kind of scary - theres a bunch of stuff going on behind the scenes that I don't fully understand, so it feels like taking a risk every time I deploy a new version.
+
+#### To Do
+
+- ~~fix flashing in the sign in button when refreshing~~
+- figure out why the about page crashes sometimes on refresh (deployment)
+- figure out how to mock a deployment environment
+- fix flashing in MyLibrary
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- Get rid of the "headers can't be set after they're sent" warning from the server
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination?
+
+</details>
+
+<details>
   <summary>Day 74: September 3, 2022</summary>
 
 #### Things I accomplished today:
