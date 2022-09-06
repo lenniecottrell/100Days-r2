@@ -21,6 +21,64 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 77: September 6, 2022</summary>
+
+#### Things I accomplished today:
+
+- I replaced instances of localStorage with sessionStorage to see if that solved the problem of being signed in without access to MyLibrary, I don't think I've done it quite yet. I keep thinking there might be something on the server I need to change but I don't know yet.
+
+#### Things I want to focus on tomorrow:
+
+- Once I can confidently reproduce every issue I'm seeing, I need to slow down and really think through these problems before jumping in with code.
+
+#### Notes/Learnings
+
+#### To Do:
+
+- figure out how to get the modal to not show up when the page is loaded with an existing token
+- figure out why the about page crashes sometimes on refresh (deployment)
+- figure out why I get mixed content warnings in prod only
+- fix flashing in MyLibrary
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- Get rid of the "headers can't be set after they're sent" warning from the server
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination?
+
+</details>
+
+<details>
+  <summary>Day 76: September 5, 2022</summary>
+
+#### Things I accomplished today:
+
+- I'm going to try to take copious notes here.
+  - localStorage was not the solution to the sign-in flashing, because now it preserve the sign in button state but not the logged in state, so you can access My Library without seeing your books, and the app crashes. I think the solution to this will be sessionStorage, so I'll try that first.
+  - It's possible that I'll want to implement the [Visibility API](https://www.igvita.com/2015/11/20/dont-lose-user-and-app-state-use-page-visibility/)
+  - I think that building and previewing my vite app while running everything on my server is the closest I'm going to get to simulating production, but there are issues I am having trouble reproducing locally that only happen on prod
+  - I need to figure out why loading the /about route crashes the app in prod and gives a warning about a disallowed MIME type. I cannot reproduce this (yet) in dev or staging
+
+#### Things I want to focus on tomorrow:
+
+- try out sessionStorage to see if that fixes flashing and the My Library issue.
+
+#### Notes/Learnings
+
+#### To Do
+
+- figure out why the about page crashes sometimes on refresh (deployment)
+- figure out why I get mixed content warnings in prod only
+- ~~figure out how to mock a deployment environment~~
+- fix flashing in MyLibrary
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- Get rid of the "headers can't be set after they're sent" warning from the server
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination?
+
+</details>
+
+<details>
   <summary>Day 75: September 4, 2022</summary>
 
 #### Things I accomplished today:
