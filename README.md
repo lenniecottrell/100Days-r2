@@ -21,17 +21,55 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 78: September 7, 2022</summary>
+
+#### Things I accomplished today:
+
+- I decided to store the auth token client-side, and moved things around to make that work. I think I got everything settled correctly locally, but on my first attempt at mocking prod, there were some issues. I think this will be an okay way to go to make this a viable portfolio project
+
+#### Things I want to focus on tomorrow:
+
+- fix the prod issue and actually deploy
+
+#### Notes/Learnings
+
+- I hope this works. I can always build it out futher later and actually add user management.
+- If it does work, technically I don't need a server because I could make all the API calls from the client side. I don't know if thats frowned upon though.
+
+#### To Do
+
+- fix the token in prod
+- deploy
+- debug deployment
+- fix flashing in MyLibrary
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- Get rid of the "headers can't be set after they're sent" warning from the server (might be fixed by client-side token)
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination?
+- </details>
+
+<details>
   <summary>Day 77: September 6, 2022</summary>
 
 #### Things I accomplished today:
 
 - I replaced instances of localStorage with sessionStorage to see if that solved the problem of being signed in without access to MyLibrary, I don't think I've done it quite yet. I keep thinking there might be something on the server I need to change but I don't know yet.
+- I think something that's happening is that when any user anywhere logs in, the server has that one token. Which means if I'm logged in on my client machine, the publicly available dev server also has access. This is bad.
+- This might be useful for the MIME type issue: https://github.com/parcel-bundler/parcel/discussions/8119
 
 #### Things I want to focus on tomorrow:
 
 - Once I can confidently reproduce every issue I'm seeing, I need to slow down and really think through these problems before jumping in with code.
 
 #### Notes/Learnings
+
+- notes from mentor feedback:
+  - idea: netflix but for books? mimic netflix interface - new releases, my list, list by genre, etc just like netflix
+  - server should be stateless (i.e. doesn't hold the token)
+  - create user session with a cookie
+  - gotta figure out how to create user sessions
+  - add a timer to the token?
 
 #### To Do:
 
