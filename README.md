@@ -21,6 +21,36 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 79: September 8, 2022</summary>
+
+#### Things I accomplished today:
+
+- I got fixed the server issue and redeployed. At first it showed me that MIME type error again, but I came back to it later and it worked. It's a little weird that it's inconsistent, but maybe it's some weird cache thing or something
+
+#### Things I want to focus on tomorrow:
+
+- investigate the warnings
+- make the modal only show if you're not signed in already - now that the token is saved in localStorage, we don't need to see the modal in sessionStorage.
+
+#### Notes/Learnings
+
+- It'll be interesting to see the feedback I get once this is actually released to the general public
+
+#### To Do
+
+- ~~fix the token in prod~~
+- ~~deploy~~
+- ~~debug deployment~~
+- fix flashing in MyLibrary
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- Get rid of the "headers can't be set after they're sent" warning from the server (might be fixed by client-side token)
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination?
+
+</details>
+
+<details>
   <summary>Day 78: September 7, 2022</summary>
 
 #### Things I accomplished today:
@@ -47,7 +77,8 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 - Add the ability to move a book to a different shelf
 - preserve the active library tab on refresh
 - Add more results/pagination?
-- </details>
+
+</details>
 
 <details>
   <summary>Day 77: September 6, 2022</summary>
