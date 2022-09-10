@@ -34,6 +34,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 - I might look into the things on the to-do list, or I might go back to learning about DSA. I've worked hard and got my app to a demo-able place.
 - I still need to figure out the disallowed mime-type thing though.... currently it only happens when you refresh MyLibrary ("Loading module was blocked because of a disallowed MIME type (“text/html”).")
+  - It seems to be inconsistent. Potentially caused by ad-blocker?
 
 #### Notes/Learnings
 
