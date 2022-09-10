@@ -21,6 +21,66 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 81: September 10, 2022</summary>
+
+#### Things I accomplished today:
+
+- I fixed the flashing in MyLibrary, and it was way easier than I thought it would be - I didn't need to use state at all, I just needed to add the spinner with conditional rendering. The initial state of the data was set to `null`, and then it was something like `{!bookList ? <Spinner/> : <Grid>}`
+- I also added the spinner to the landing page for consistency.
+- redeployed! I now feel confident about publishing this app.
+- I added NODE_ENV=production to the fly.toml file also, then redeployed again. ([see here](https://community.fly.io/t/how-to-set-node-env-to-production-when-relying-on-node-buildpack/5612/4))
+
+#### Things I want to focus on tomorrow:
+
+- I might look into the things on the to-do list, or I might go back to learning about DSA. I've worked hard and got my app to a demo-able place.
+- I still need to figure out the disallowed mime-type thing though.... currently it only happens when you refresh MyLibrary ("Loading module was blocked because of a disallowed MIME type (“text/html”).")
+
+#### Notes/Learnings
+
+- This was a good reminder about conditional rendering. Not everything needs to be a state variable! useEffect was causing the flashing, but the solution didn't involve editing anything about useEffect
+
+#### To Do
+
+- ~~get the modal to show up at the right time~~
+- ~~fix flashing in MyLibrary~~
+- disallow navigating directly to "/library" (unless logged in?)
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll?
+
+</details>
+
+<details>
+  <summary>Day 80: September 9, 2022</summary>
+
+#### Things I accomplished today:
+
+- fixed a bunch of minor styling things like font sizes, responsize sizes, small margin changes, and the background color of a tooltip
+- working on changing the modal to show up only on first load, and never if you're already logged in - not done yet
+- merged deploy-staging into main on purpose, but forgot that I kept those separate to keep the localHost server calls in main - derp!
+
+#### Things I want to focus on tomorrow:
+
+- ~~solve the modal issue~~
+- ~~look into the button-can't-be-child-of-a-button warning.~~
+- look into fixing the flashing (useRef?)
+- set expiration for token value: https://www.sohamkamani.com/javascript/localstorage-with-ttl-expiry/
+
+#### Notes/Learnings
+
+#### To Do
+
+- get the modal to show up at the right time
+- fix flashing in MyLibrary
+- Get rid of the warning about a button can't be a child of a button (hasn't caused any problems yet though...)
+- Get rid of the "headers can't be set after they're sent" warning from the server (might be fixed by client-side token)
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination?
+
+</details>
+
+<details>
   <summary>Day 79: September 8, 2022</summary>
 
 #### Things I accomplished today:
