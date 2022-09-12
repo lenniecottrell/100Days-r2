@@ -21,6 +21,60 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 83: September 12, 2022</summary>
+
+#### Things I accomplished today:
+
+- I started working on adding the ability to move a book from one shelf to another... somehow everything broke?
+- I successfully added a menu with the options
+- I ran into a really weird memory error and now my computer is acting strange :(
+
+#### Things I want to focus on tomorrow:
+
+- keep working on this problem
+
+#### Notes/Learnings
+
+#### To Do
+
+- Add the ability to move a book to a different shelf
+- disallow navigating directly to "/library" (unless logged in?)
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll?
+- get back into DSA
+- figure out the reshuffling of all of my personal website stuff
+
+</details>
+
+<details>
+  <summary>Day 82: September 11, 2022</summary>
+
+#### Things I accomplished today:
+
+- Last night + this morning I moved my personal website from CRA to Vite, and (thankfully) it was easy! After deploying with Fly, I realized that I do not need to be paying GoDaddy so much money for a simple SPA site that I can host for free on GitHub pages, so I'm starting moving things around.
+
+#### Things I want to focus on tomorrow:
+
+- Back to Shelf - add the ability to move a book to a different shelf
+- Figure out some of the shuffling in my portfolio stuff
+
+#### Notes/Learnings
+
+- As frustrating as deploying is, my understanding of how it works and what needs to be done is better now, enough for me to know that I don't need GoDaddy's hosting service.
+- It's fun to feel like I have a more thorough understanding of all of this stuff. Consistency really is key.
+
+#### To Do
+
+- disallow navigating directly to "/library" (unless logged in?)
+- Add the ability to move a book to a different shelf
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll?
+- get back into DSA
+- figure out the reshuffling of all of my personal website stuff
+
+</details>
+
+<details>
   <summary>Day 81: September 10, 2022</summary>
 
 #### Things I accomplished today:
