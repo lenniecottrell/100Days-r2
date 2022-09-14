@@ -21,6 +21,62 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 85: September 14, 2022</summary>
+
+#### Things I accomplished today:
+
+- I kept working on moving a book from one shelf to another
+- Pro: I realized I didn't need a separate route for this, I can just re-use the routes I have
+- Con: it does not work yet.
+
+#### Things I want to focus on tomorrow:
+
+- Gotta figure this out! I'm close!
+
+#### Notes/Learnings
+
+- It always has to be harder than you anticipate.
+
+#### To Do
+
+- Add the ability to move a book to a different shelf
+- disallow navigating directly to "/library" (unless logged in?)
+- preserve the active library tab on refresh
+- figure out how to expire the token
+- Add more results/pagination/infinite scroll?
+- get back into DSA
+- figure out the reshuffling of all of my personal website stuff
+
+</details>
+
+<details>
+  <summary>Day 84: September 13, 2022</summary>
+
+#### Things I accomplished today:
+
+- I worked on moving a book to a different shelf. Seems pretty straightforward - remove the book from the current shelf, add it to the next shelf. The tricky parts are the details though, like sending the right respond and putting everything in one call to the server
+
+#### Things I want to focus on tomorrow:
+
+- I'm not quite done, so try to get this done tomorrow
+
+#### Notes/Learnings
+
+- 100 Days of code, so far, is the thing that's made me feel most confident in my ability to code
+
+#### To Do
+
+- Add the ability to move a book to a different shelf
+- disallow navigating directly to "/library" (unless logged in?)
+- preserve the active library tab on refresh
+- figure out how to expire the token
+- Add more results/pagination/infinite scroll?
+- get back into DSA
+- figure out the reshuffling of all of my personal website stuff
+
+</details>
+
+<details>
   <summary>Day 83: September 12, 2022</summary>
 
 #### Things I accomplished today:
