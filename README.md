@@ -21,6 +21,34 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 86: September 15, 2022</summary>
+
+#### Things I accomplished today:
+
+- With the help of Stack Overflow, I got the "move book" functionality working!
+
+#### Things I want to focus on tomorrow:
+
+- change the token to sessionStorage instead of localStorage?
+- deploy the new version
+
+#### Notes/Learnings
+
+- I guess it's bad practice to pass setState functions from parent to child, and the preferred method is to wrap them in a function and pass that function down instead. That solved my problem!
+
+#### To Do
+
+- ~~Add the ability to move a book to a different shelf~~
+- disallow navigating directly to "/library" (unless logged in?)
+- preserve the active library tab on refresh
+- figure out how to expire the token
+- Add more results/pagination/infinite scroll?
+- get back into DSA
+- figure out the reshuffling of all of my personal website stuff
+
+</details>
+
+<details>
   <summary>Day 85: September 14, 2022</summary>
 
 #### Things I accomplished today:
