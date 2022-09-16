@@ -21,6 +21,38 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 87: September 16, 2022</summary>
+
+#### Things I accomplished today:
+
+- I started pruning unnecessary code, and in the process broke something that resulted in my scrapping all the work I did today, so I'm in the same place I started
+- This is my fault for working on the main branch! Always create new branches for features >:X
+- I did get the toasts to display the right shelf name when a book is moved, and I think I can redo that pretty easily - I don't think that was what broke it
+
+#### Things I want to focus on tomorrow:
+
+Same list as yesterday:
+
+- change the token to sessionStorage instead of localStorage?
+- figure out what I can prune from BookDetailShelf
+- deploy the new version
+
+#### Notes/Learnings
+
+Don't work off of main when you have a working version!!!!!!!!!
+
+#### To Do
+
+- disallow navigating directly to "/library" (unless logged in?)
+- preserve the active library tab on refresh
+- figure out how to expire the token
+- Add more results/pagination/infinite scroll?
+- get back into DSA
+- figure out the reshuffling of all of my personal website stuff
+
+</details>
+
+<details>
   <summary>Day 86: September 15, 2022</summary>
 
 #### Things I accomplished today:
@@ -30,6 +62,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 #### Things I want to focus on tomorrow:
 
 - change the token to sessionStorage instead of localStorage?
+- figure out what I can prune from BookDetailShelf
 - deploy the new version
 
 #### Notes/Learnings
