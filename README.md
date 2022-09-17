@@ -21,6 +21,34 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 88: September 17, 2022</summary>
+
+#### Things I accomplished today:
+
+- I did all the things on my list today, plus one!
+- Pruned BookDetailShelf
+- changed token back to sessionStorage instead of localStorage (more annoying if you leave and come back, but now you can only get a fresh token... I hope)
+- fixed an issue in the server where books moved to a different shelf wouldn't have their author list formatted
+- successfully deployed the new version!
+
+#### Things I want to focus on tomorrow:
+
+- look into figure out how to disallow navigating directly to /library
+- revisit all of my personal website stuff, maybe deploy the new version on GH pages?
+
+#### Notes/Learnings
+
+#### To Do
+
+- disallow navigating directly to "/library" (unless logged in?)
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll?
+- get back into DSA
+- figure out the reshuffling of all of my personal website stuff
+
+</details>
+
+<details>
   <summary>Day 87: September 16, 2022</summary>
 
 #### Things I accomplished today:
