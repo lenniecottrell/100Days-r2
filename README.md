@@ -8,15 +8,28 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build sample CRUD apps
 
 <details>
-  <summary>Day XX: September XX, 2022</summary>
+  <summary>Day 89: September 18, 2022</summary>
 
 #### Things I accomplished today:
 
+- I successfully preventing the app from crashing if someone isn't logged in and they navigate directly to /library. Haven't deployed it yet because I may try adding some more functionality first.
+- I moved my blog page to lenniecottrell.github.io/blog
+- I started moving my portfolio site to lenniecottrell.github.io but when I deploy I get the 'disallowed MIME type' error again that seems to happen with Vite pages.
+
 #### Things I want to focus on tomorrow:
+
+- keep trying to solve this portfolio issue
 
 #### Notes/Learnings
 
 #### To Do
+
+- figure out the MIME type issue with my portfolio
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+- get back into DSA
 
 </details>
 
@@ -33,14 +46,16 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### Things I want to focus on tomorrow:
 
-- look into figure out how to disallow navigating directly to /library
+- ~~look into figure out how to disallow navigating directly to /library~~
 - revisit all of my personal website stuff, maybe deploy the new version on GH pages?
 
 #### Notes/Learnings
 
 #### To Do
 
-- disallow navigating directly to "/library" (unless logged in?)
+- figure out why the first book in a search gets stuck...
+- consider adding a search button instead of live search
+- ~~disallow navigating directly to "/library" (unless logged in?)~~
 - preserve the active library tab on refresh
 - Add more results/pagination/infinite scroll?
 - get back into DSA
