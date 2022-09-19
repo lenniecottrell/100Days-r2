@@ -8,6 +8,48 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build sample CRUD apps
 
 <details>
+  <summary>*** Day : September , 2022</summary>
+
+#### Things I accomplished today:
+
+#### Things I want to focus on tomorrow:
+
+#### Notes/Learnings
+
+#### To Do
+
+</details>
+
+<details>
+  <summary>Day 90: September 19, 2022</summary>
+
+#### Things I accomplished today:
+
+- I deployed my changes from yesterday, all seems okay
+- I kept trying to deploy my new github user site. I noticed I hadn't edited part of my deploy.sh file, that didn't solve it
+- Still haven't figured it out. I tried a bunch of different things: adding a gh-pages branch, editing the vite config to point to dist, adding a homepage to package.json, pushing the subtree to git to make sure it points to dist... nothin
+- If all else fails I can just make it a project page
+
+#### Things I want to focus on tomorrow:
+
+- keep working on this
+
+#### Notes/Learnings
+
+#### To Do
+
+- figure out my portfolio stuff
+- transfer domain and use it for my github website
+- get back into DSA
+- figure out the MIME type issue with my portfolio
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+
+</details>
+
+<details>
   <summary>Day 89: September 18, 2022</summary>
 
 #### Things I accomplished today:
