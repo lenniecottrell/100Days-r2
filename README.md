@@ -21,6 +21,39 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 91: September 20, 2022</summary>
+
+#### Things I accomplished today:
+
+- I started looking into verifying my app with google so people don't see the scary "this app isn't verified" screen.
+- I read a little about refresh tokens to improve the UX if my users open the app in a new tab
+- Turns out my portfolio website was fine (just needed some time maybe?), and I fixed something on my blog page to make sure it worked as well.
+- I added the new URL to my portfolio, but ran into some git issues when trying to push
+
+#### Things I want to focus on tomorrow:
+
+- Figure out the new workflow for pushing my portfolio to github
+- cancel hosting with godaddy!
+- get the new page to go to lenniewritescode.com or maybe even lenniecottrell.com
+
+#### Notes/Learnings
+
+-Lots of reading today, but that's okay. Sometimes the work of coding is just learning and understanding what needs to be done, rather than always needing to write code.
+
+#### To Do
+
+- figure out my portfolio stuff
+- transfer domain and use it for my github website
+- get back into DSA
+- ~~figure out the MIME type issue with my portfolio~~ _this seems resolved?_
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+
+</details>
+
+<details>
   <summary>Day 90: September 19, 2022</summary>
 
 #### Things I accomplished today:
