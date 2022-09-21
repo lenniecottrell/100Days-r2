@@ -21,6 +21,41 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 92: September 21, 2022</summary>
+
+#### Things I accomplished today:
+
+- I deleted my gh-pages branch for my portfolio and retried using the advice from this thread: https://gist.github.com/cobyism/4730490
+  - Specifically, the approach that worked was from _hosja83_
+- I got my portfolio site up and running again with an easy way to create new deployments.
+
+#### Things I want to focus on tomorrow:
+
+- Stop hosting on GoDaddy, look into my other domain as well
+- Transfer domain registrars?
+- use a different domain for my portfolio
+
+#### Notes/Learnings
+
+- Deploying... still a black box. Even to GH pages there's so much happening behind the scenes.
+
+#### To Do
+
+- ~~figure out my portfolio stuff~~
+- transfer domain and use it for my github website
+- fix the logo/icon on my blog page
+- get back into DSA
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+
+</details>
+
+<details>
   <summary>Day 91: September 20, 2022</summary>
 
 #### Things I accomplished today:
@@ -44,6 +79,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 - figure out my portfolio stuff
 - transfer domain and use it for my github website
+- verify or otherwise remove the scary google warning for shelf
 - get back into DSA
 - ~~figure out the MIME type issue with my portfolio~~ _this seems resolved?_
 - add a search button instead of live search - maybe cleaner experience?
