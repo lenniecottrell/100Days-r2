@@ -21,6 +21,71 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 94: September 26, 2022</summary>
+
+#### Things I accomplished today:
+
+- I started looking into making a super simple privacy policy today so that Google won't show a scary warning when people try to use my app. I'm pretty sure I can say my app doesn't store any information.
+- I added the privacy policy page to my app. It was easy, only issue I ran into was a routing problem, I just need to figure that out but it shouldn't be too hard.
+
+#### Things I want to focus on tomorrow:
+
+- Make sure the privacy policy page is working correctly.
+- Check on my porkbun domain and transfer the other domain over as well.
+
+#### Notes/Learnings
+
+- I need to make a YOUTUBE VIDEO explaining how my app uses data. So much work. whatever, it'll be worth it I hope.
+
+#### To Do
+
+- transfer domain and use it for my github website
+- fix the logo/icon on my blog page
+- get back into DSA
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+
+</details>
+
+<details>
+  <summary>Day 93: September 22, 2022</summary>
+
+#### Things I accomplished today:
+
+- I did some research and signed up for Porkbun domain hosting. Seems like its generally well-liked, prices are good, and company is good, and based in the PNW!
+- I initiated a transfer of lenniecottrell.com away from weebly and to porkbun. I'll do that one first and then do lenniewritescode once the other one works.
+
+#### Things I want to focus on tomorrow:
+
+- Look into removing the scary google warning
+- Watch a new DSA vid?
+
+#### Notes/Learnings
+
+- Even though I didn't really code today, I found a new domain registrar and started moving my stuff around, which is good knowledge/practive for web dev.
+- For now I've only moved my lenniecottrell.com account. Once that is complete I'll move lenniewritescode.com
+
+#### To Do
+
+- transfer domain and use it for my github website
+- fix the logo/icon on my blog page
+- get back into DSA
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+
+</details>
+
+<details>
   <summary>Day 92: September 21, 2022</summary>
 
 #### Things I accomplished today:
