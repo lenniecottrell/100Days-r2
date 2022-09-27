@@ -21,6 +21,37 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 95: September 27, 2022</summary>
+
+#### Things I accomplished today:
+
+- I fixed the route in my app to the privacy page, verified it works in the build, and deployed the new version
+- I initiated the other transfer of lenniewritescode.com from GoDaddy to Porkbun. There's no reason to wait for the other domain to complete. Check back in a week.
+- I rewatched the DSA video on stacks and queues with arrays and took notes
+
+#### Things I want to focus on tomorrow:
+
+#### Notes/Learnings
+
+- I had trouble getting react-router-dom to link to the right route from `/about`. It wanted to send me to `/about/privacy` and I wanted to go to `/privacy`. Turns out you can just use normal directory navigation and use `<Link to="../privacy" />`
+
+#### To Do
+
+- transfer domain and use it for my github website
+- take down lenniecottrell.com and lenniewritescode.com
+- fix the logo/icon on my blog page
+- get back into DSA
+- create my walkthough video for google verification
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+- </details>
+
+<details>
   <summary>Day 94: September 26, 2022</summary>
 
 #### Things I accomplished today:
