@@ -21,6 +21,41 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 96: September 28, 2022</summary>
+
+#### Things I accomplished today:
+
+- Didn't really accomplish much per se, but I learned some things.
+- The Jekyll blog is really designed to be on a user page, not a project page (`lenniecottrell.github.io`, not `lenniecottrell.github.io/blog`). There's clearly a way to do it, but I can't find any resources that explain it.
+- This is why my posts weren't updating and why the image on the main page wasn't loading.
+- I guess I could make my portfolio site a project page, make the blog my user page, and customize the domain for my portfolio site since I was going to do that anyway. I just need to shuffle a bunch of stuff around again.
+- I watched two DSA videos on Hashes and took notes
+
+#### Things I want to focus on tomorrow:
+
+- Keep going with DSA
+
+#### Notes/Learnings
+
+- Feels weird not to be actively coding, but doing kind of digital housekeeping instead. It's still valuable to my digital life but after working so hard on Shelf it feels so different.
+
+#### To Do
+
+- take down lenniecottrell.com and lenniewritescode.com?
+- figure out what I want to do about my blog/portfolio
+- ~~get back into DSA~~
+- create my walkthough video for google verification
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+
+</details>
+
+<details>
   <summary>Day 95: September 27, 2022</summary>
 
 #### Things I accomplished today:
@@ -37,9 +72,9 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### To Do
 
-- transfer domain and use it for my github website
+- ~~transfer domain and use it for my github website~~
 - take down lenniecottrell.com and lenniewritescode.com
-- fix the logo/icon on my blog page
+- ~~fix the logo/icon on my blog page~~
 - get back into DSA
 - create my walkthough video for google verification
 - ##### Shelf To Do:
