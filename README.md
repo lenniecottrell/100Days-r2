@@ -21,6 +21,39 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 97: October 1, 2022</summary>
+
+#### Things I accomplished today:
+
+- I successfully got my blog working on a GitHub project page, which is easier than trying to re-shuffle everything around.
+- I fixed the image on the blog landing page, which broke the image on the About and Post pages. hmmmm
+- At least now lenniecottrell.github.io works and lenniecottrell/github/io/blog works as they should. No more need to pay for web hosting, and once my domain is fully transferred to porkbun then I can remove everything from GoDaddy
+
+#### Things I want to focus on tomorrow:
+
+- create my walkthrough video for Google
+- Try and fix the image problem
+- Start drafting my blog post
+- Watch another DSA video
+
+#### Notes/Learnings
+
+#### To Do
+
+- take down lenniecottrell.com and lenniewritescode.com?
+- ~~figure out what I want to do about my blog/portfolio~~
+- create my walkthough video for google verification
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+
+</details>
+
+<details>
   <summary>Day 96: September 28, 2022</summary>
 
 #### Things I accomplished today:
