@@ -21,6 +21,35 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 98: October 2, 2022</summary>
+
+#### Things I accomplished today:
+
+- I recorded a video and submitted Shelf for verification so that the scary warning will go away. Should take a few weeks.
+- I had to upload a <meta> tag to Shelf for verification, so far so good
+- I watched a short video on hash collisions, pretty straighforward!
+
+#### Things I want to focus on tomorrow:
+
+- Think about a different landing page for Shelf
+- Watch another DSA vid
+
+#### Notes/Learnings
+
+#### To Do
+
+- take down lenniecottrell.com and lenniewritescode.com?
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+
+</details>
+
+<details>
   <summary>Day 97: October 1, 2022</summary>
 
 #### Things I accomplished today:
