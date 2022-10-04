@@ -21,6 +21,37 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 </details>
 
 <details>
+  <summary>Day 99: October 3, 2022</summary>
+
+#### Things I accomplished today:
+
+- I responded to the Google verification team to clarify what I still need to do. I think this'll happen, I just need to jump through their hoops.
+- I cancelled my renewals with GoDaddy. I need to look into what it means to change me name servers over to porkbun.
+- I watched a couple DSA vids on hashing
+
+#### Things I want to focus on tomorrow:
+
+- Look into changing my url on github
+
+#### Notes/Learnings
+
+- Network infrastructure is still confusing to me, but not as confusing as everything that goes into deployment!
+
+#### To Do
+
+- Change my URL on github.
+- Keep going with DSA
+- Figure out what to do with lenniewritescode.com
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
+</details>
+
+<details>
   <summary>Day 98: October 2, 2022</summary>
 
 #### Things I accomplished today:
