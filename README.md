@@ -1,6 +1,6 @@
 # 100DaysOfCode - Round 2
 
-Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-Round-2/) for this round:
+Here are my [stated objectives](https://lenniecottrell.github.io/blog/100DaysOfCode-Round-2/) for this round:
 
 > - Learn DS&A
 > - Learn how to solve leetcode questions
@@ -8,15 +8,35 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 > - Build sample CRUD apps
 
 <details>
-  <summary>*** Day : September , 2022</summary>
+  <summary>Day 100: October 4, 2022</summary>
 
 #### Things I accomplished today:
 
+- I wrong my summary [blog post](https://lenniecottrell.github.io/blog/Reflections-on-100DaysOfCode-Round-2/) for this round
+
 #### Things I want to focus on tomorrow:
+
+- Sleep, relax :)
 
 #### Notes/Learnings
 
+- See the blog post
+
 #### To Do
+
+- Change my URL on github - maybe unnecessary
+- Figure out what to do with lenniewritescode.com - maybe don't need to do anything!
+- fix the broken image issue with my blog
+- Keep going with DSA
+- Practice interview problems
+- Start using typescript all the time
+- ##### Shelf To Do:
+- verify the app or otherwise remove the scary google warning for shelf
+- Make landing page blank?
+- add a search button instead of live search - maybe cleaner experience?
+- figure out why the first book in a search gets stuck...
+- preserve the active library tab on refresh
+- Add more results/pagination/infinite scroll
 
 </details>
 
@@ -31,7 +51,7 @@ Here are my [stated objectives](https://lenniecottrell.github.io/100DaysOfCode-R
 
 #### Things I want to focus on tomorrow:
 
-- Look into changing my url on github
+- Write my reflection
 
 #### Notes/Learnings
 
